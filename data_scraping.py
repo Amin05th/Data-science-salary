@@ -75,73 +75,73 @@ def fetch_jobs(keyword, num_pages, path, slp_time):
                     company_name.append(driver.find_element(By.XPATH, "//div[@class='css-87uc0g e1tk4kwz1']").text)
                     time.sleep(1)
                 except NoSuchElementException:
-                    company_name.append("#N/A")
+                    company_name.append(-1)
                     pass
 
                 try:
                     job_title.append(driver.find_element(By.XPATH, "//div[@class='css-1vg6q84 e1tk4kwz4']").text)
                 except NoSuchElementException:
-                    job_title.append("#N/A")
+                    job_title.append(-1)
                     pass
 
                 try:
                     location.append(driver.find_element(By.XPATH, "//div[@class='css-56kyx5 e1tk4kwz5']").text)
                 except NoSuchElementException:
-                    location.append("#N/A")
+                    location.append(-1)
                     pass
 
                 try:
                     job_description.append(driver.find_element(By.XPATH, "//div[@id='JobDescriptionContainer']").text)
                 except NoSuchElementException:
-                    job_description.append("#N/A")
+                    job_description.append(-1)
                     pass
 
                 try:
                     salary_estimate.append(driver.find_element(By.XPATH, "//div[@class='css-1bluz6i e2u4hf13']").text)
                 except NoSuchElementException:
-                    salary_estimate.append("#N/A")
+                    salary_estimate.append(-1)
                     pass
 
                 try:
                     company_size.append(driver.find_element(By.XPATH,
                                                             "//div[@id='CompanyContainer']//span[text()='Size']//following-sibling::*").text)
                 except NoSuchElementException:
-                    company_size.append("#N/A")
+                    company_size.append(-1)
                     pass
 
                 try:
                     company_type.append(driver.find_element(By.XPATH,
                                                             "//div[@id='CompanyContainer']//span[text()='Type']//following-sibling::*").text)
                 except NoSuchElementException:
-                    company_type.append("#N/A")
+                    company_type.append(-1)
                     pass
 
                 try:
                     company_sector.append(driver.find_element(By.XPATH,
                                                               "//div[@id='CompanyContainer']//span[text()='Sector']//following-sibling::*").text)
                 except NoSuchElementException:
-                    company_sector.append("#N/A")
+                    company_sector.append(-1)
                     pass
 
                 try:
                     company_industry.append(driver.find_element(By.XPATH,
                                                                 "//div[@id='CompanyContainer']//span[text()='Industry']//following-sibling::*").text)
                 except NoSuchElementException:
-                    company_industry.append("#N/A")
+                    company_industry.append(-1)
                     pass
 
                 try:
                     company_founded.append(driver.find_element(By.XPATH,
                                                                "//div[@id='CompanyContainer']//span[text()='Founded']//following-sibling::*").text)
                 except NoSuchElementException:
-                    company_founded.append("#N/A")
+                    company_founded.append(-1)
                     pass
 
                 try:
                     company_revenue.append(driver.find_element(By.XPATH,
                                                                "//div[@id='CompanyContainer']//span[text()='Revenue']//following-sibling::*").text)
                 except NoSuchElementException:
-                    company_revenue.append("#N/A")
+                    company_revenue.append(-1)
                     pass
 
                 done = True
