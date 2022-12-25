@@ -1,4 +1,4 @@
-company,job title,location,job description,salary estimate,company_size,company_type,company_sector,company_industry,company_founded,company_revenue,hourly,monthly,company_txt,age,python_yn,R_yn,spark,aws,excel
+company,job title,location,job description,salary estimate,company_size,company_type,company_sector,company_industry,company_founded,company_revenue,hourly,monthly,salary,company_txt,age,python_yn,R_yn,spark,aws,excel
 "IBM
 4.1",Data Scientist,Ahmedabad,"Introduction
 IBM Ecosystem/Build Lab guides and performs technical build motion activities for IBM's strategic Partners (ISVs - Independent Software Vendors). IBM Build Labs leverages the power and flexibility of IBM's hybrid cloud and AI platforms for development, deployment and get-to-market validation, transforming partner products into innovative joint solutions. With Red Hat OpenShift, IBM Cloud Paks and the entire IBM Cloud and AI portfolio. Modernized products can then run on virtually any platform, opening up new market opportunities and competitive advantages for partners — and their clients — not to mention the support and community of the IBM partner ecosystem
@@ -84,7 +84,7 @@ Being You @ IBM
 IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
 To apply to this job, click Apply Now
 Show Less
-Report","₹6,20,059 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,1911,$10+ billion (USD),0,0,IBM,111,1,0,1,1,1
+Report","₹6,20,059 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,1911,$10+ billion (USD),0,0,620059.0,IBM,111,1,0,1,1,1
 TheHive,Data Scientist,Remote,"Responsibilities:
  Undertaking data collection, preprocessing and analysis
  Building models to address business problems
@@ -115,7 +115,7 @@ Monday to Friday
 Night shift
 US shift
 Show Less
-Report","$2,00,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,TheHive,-1,1,0,0,0,1
+Report","$2,00,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,200000.0,TheHive,-1,1,0,0,0,1
 BoldTek India Private Limited,Jr. Data Scientist/ ML Engineer,Guwahati,"Jr. Data Scientist/ ML Engineer
 Skill Requirements
 0-1 year of experience as a Data Scientist/ML Engineer
@@ -156,7 +156,7 @@ Yearly bonus
 Experience:
 total work: 1 year (Preferred)
 Show Less
-Report","₹22,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,BoldTek India Private Limited,-1,1,0,1,1,0
+Report","₹22,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,22500.0,BoldTek India Private Limited,-1,1,0,1,1,0
 "Kmart
 3.4",Data Scientist,Bangalore,"Brighter futures start here
 Anko is the global capability centre for Kmart Group Australia, fuelling growth aspirations of iconic Australian retail brands Kmart, Target and Anko. Based in Bangalore, India, we strive to accelerate retail innovation by building competitive capabilities in Technology, Data Sciences and Business Services that enable our brands to deliver delightful experiences to our in-store and online customers
@@ -188,7 +188,7 @@ A place you can belong
 
 We celebrate the rich diversity of the communities in which we operate and are committed to creating inclusive and safe environments where all our team members can contribute and succeed. We believe that all team members should feel valued, respected, and safe irrespective of your gender, ethnicity, indigeneity, religious beliefs, education, age, disability, family responsibilities, sexual orientation and gender identity and we encourage applications from all candidates.
 Show Less
-Report","₹3,32,718 /yr (est.)",10000+ Employees,Subsidiary or Business Segment,Retail & Wholesale,General Merchandise & Superstores,1899,$5 to $10 billion (USD),0,0,Kmart,123,1,0,0,1,0
+Report","₹3,32,718 /yr (est.)",10000+ Employees,Subsidiary or Business Segment,Retail & Wholesale,General Merchandise & Superstores,1899,$5 to $10 billion (USD),0,0,332718.0,Kmart,123,1,0,0,1,0
 "Airtel India
 4.2",Data Scientist,Gurgaon,"About the Role
 Incident management & Change management of around 400 NMS/EMS instances.
@@ -199,7 +199,7 @@ Will be responsible for the proactive health checkup of all NMS/EMS instances.
 
 Apply Now: click Apply Now
 Show Less
-Report","₹6,84,628 /yr (est.)",10000+ Employees,Company - Public,Telecommunications,Telecommunications Services,-1,$10+ billion (USD),0,0,Airtel India,-1,0,0,0,0,0
+Report","₹6,84,628 /yr (est.)",10000+ Employees,Company - Public,Telecommunications,Telecommunications Services,-1,$10+ billion (USD),0,0,684628.0,Airtel India,-1,0,0,0,0,0
 "Mercedes-Benz Research and Development India Private Limited
 4.2",Data Scientist,Bangalore,"Aufgaben
 The role is that of an individual contributor who is capable of taking responsibility / owning the complete data science POC/ project lifecycle based on CRISP DM framework
@@ -226,7 +226,7 @@ Experience working with Azure cloud tech stack (databricks / ADLS etc.)
 Experience building models in distributed computing (preferably pyspark)
 Experience building AI models @ scale for auto / Manufacturing domain
 Show Less
-Report","₹6,38,749 /yr (est.)",10000+ Employees,Company - Public,Manufacturing,Transportation Equipment Manufacturing,1886,Unknown / Non-Applicable,0,0,Mercedes-Benz Research and Development India Private Limited,136,1,0,1,0,0
+Report","₹6,38,749 /yr (est.)",10000+ Employees,Company - Public,Manufacturing,Transportation Equipment Manufacturing,1886,Unknown / Non-Applicable,0,0,638749.0,Mercedes-Benz Research and Development India Private Limited,136,1,0,1,0,0
 Bipin Jha Consultancy,Data Scientist,Bangalore,"Looking for:
 Quick Learners
 Prior knowledge of ReactJS is a must
@@ -262,7 +262,7 @@ total work: 2 years (Required)
 Speak with the employer
 +91 9588455196
 Show Less
-Report","₹30,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Bipin Jha Consultancy,-1,1,0,1,0,1
+Report","₹30,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,3000000.0,Bipin Jha Consultancy,-1,1,0,1,0,1
 GSN Solutions LLC (Pyx Tech Pvt Ltd),Data Scientist,Pune,"Company summary -
 Pyx Tech, headquartered in Austin, Texas is a leading provider of technology-based solutions and services for global OEMs across key industries including High Tech, Retail, Supply Chain and After market services. Innovation starts with inclusion at Pyx Tech, where everyone's voice is heard, and diversity is valued. A chance not to be a spoke in the wheel, but an opportunity to help create new wheels of innovation. The ideal candidates are enthusiastic and motivated persons with a passion for creating lasting customer experiences and are able to respond quickly to multiple project needs. They will work closely with Customers, Product Managers, Operations and will design, develop, and implement solutions using the latest technology and tools. We believe in a learning culture where all team members have the opportunity to grow their skills and experiences. We are looking for the best candidates to help us create the future and make a difference.
 Responsibilities
@@ -315,7 +315,7 @@ Business Intelligence: 10 years (Preferred)
 Speak with the employer
 +91 9284564155
 Show Less
-Report","₹26,50,000 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,GSN Solutions LLC (Pyx Tech Pvt Ltd),-1,1,0,0,0,1
+Report","₹26,50,000 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,2650000.0,GSN Solutions LLC (Pyx Tech Pvt Ltd),-1,1,0,0,0,1
 Eduzell Technologies and Solutions LLP,DATA SCIENCE INTERNSHIP,Eranakulam,"We are hiring candidates for a Free Data Science internship program Which includes 6 months training+3 months internship. Completely free of cost. 100% placement assurance.
 job location: Ernakulam
 Contact for further details.
@@ -333,7 +333,7 @@ Kochi, Ernakulam - 682015, Kerala: Reliably commute or planning to relocate befo
 Education:
 Secondary(10th Pass) (Required)
 Show Less
-Report","₹13,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Eduzell Technologies and Solutions LLP,-1,0,0,0,0,0
+Report","₹13,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,13000.0,Eduzell Technologies and Solutions LLP,-1,0,0,0,0,0
 "Infiniti Research
 4.0",Data Scientist,Bangalore,"We are currently looking for Python Developer + Data Science with 2+ years of work experience with good communication and strong technical skills.
 Designation: Software Engineer Role
@@ -355,7 +355,7 @@ total work: 1 year (Preferred)
 Python: 1 year (Preferred)
 scraping using python: 1 year (Preferred)
 Show Less
-Report","₹7,79,981 /yr (est.)",501 to 1000 Employees,Company - Private,Management & Consulting,Business Consulting,2003,Unknown / Non-Applicable,0,0,Infiniti Research,19,1,0,0,0,0
+Report","₹7,79,981 /yr (est.)",501 to 1000 Employees,Company - Private,Management & Consulting,Business Consulting,2003,Unknown / Non-Applicable,0,0,779981.0,Infiniti Research,19,1,0,0,0,0
 Hellowork Technologies Pvt Ltd,Data Scientist,New Delhi,"Experience : - At least 2 years' of experience in quantitative analytics or data modeling
 Qualification : - Degree in Computer Programming, Computer Science, or a related field from a reputed institute
 Location : - Delhi NCR
@@ -398,7 +398,7 @@ Work Location: One location
 Speak with the employer
 +91 8208108474
 Show Less
-Report","₹5,25,000 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,Hellowork Technologies Pvt Ltd,-1,1,0,0,0,1
+Report","₹5,25,000 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,525000.0,Hellowork Technologies Pvt Ltd,-1,1,0,0,0,1
 edyst,Data Science Internship,Hyderābād,"Data Science Internship is the best way to enhance your skill set and land your dream job. Join Aneeq Dholakia (Co-Founder Edyst) & 100+ students for our upcoming live session on Data Science Internship.
 To kow more visit : https://edyst.com/internship-info/data-science-internship-real-estate-price-prediction
 Job Type: Full-time
@@ -408,7 +408,7 @@ Morning shift
 Supplemental pay types:
 Performance bonus
 Show Less
-Report","₹15,592 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,edyst,-1,0,0,0,0,0
+Report","₹15,592 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,15592.0,edyst,-1,0,0,0,0,0
 Propviewz Technologies LLP,Data Scientist,India,"Collaborate with engineering and product development teams.
 Presenting information using data visualization techniques.
 Identify valuable data sources and automate collection processes.
@@ -435,7 +435,7 @@ Wakad, Pune - 411057, Maharashtra: Reliably commute or planning to relocate befo
 Experience:
 total work: 1 year (Preferred)
 Show Less
-Report","₹6,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Propviewz Technologies LLP,-1,0,0,0,0,1
+Report","₹6,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,600000.0,Propviewz Technologies LLP,-1,0,0,0,0,1
 Aganitha Cognitive Solutions Pvt Ltd,Full Stack Data Scientist,Hyderābād,"Aganitha accelerates drug discovery and development by applying the power of Genomics, AI, Cloud, and DevOps.
 Discovery and development of drugs today are dramatically different from even a decade ago. Fundamental as well as translational research in biopharma are being transformed by rapid progress in informatics, AI and machine learning. At Aganitha, we are partnering with global biopharma companies to complement the traditional lab-based approaches with in-silico approaches to research and development.
 We develop and deploy AI, data, and cloud-powered solutions that efficiently tackle the complexity, scale, and richness of modern biopharma R&D domains. We adopt multi-disciplinary approaches, blending and translating the latest knowledge in biology, chemistry, computing, and biopharma business.
@@ -469,7 +469,7 @@ Education:
 Bachelor's (Preferred)
 Application Deadline: 05/12/2022
 Show Less
-Report","₹30,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Aganitha Cognitive Solutions Pvt Ltd,-1,1,0,1,0,0
+Report","₹30,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,30000.0,Aganitha Cognitive Solutions Pvt Ltd,-1,1,0,1,0,0
 Nimetler Technologies Private Limited,Business Analyst-Data Scientist,Mumbai,"We are looking for part time or weekend trainer on following technologies:
 1. Data Science
 2. Business Analysts
@@ -493,7 +493,7 @@ Experience:
 Data Science and Business Intelligence: 3 years (Preferred)
 Training: 1 year (Preferred)
 Show Less
-Report","₹3,461.54 /hr (est.)",1 to 50 Employees,Unknown,-1,-1,-1,Unknown / Non-Applicable,1,0,Nimetler Technologies Private Limited,-1,0,0,0,0,0
+Report","₹3,461.54 /hr (est.)",1 to 50 Employees,Unknown,-1,-1,-1,Unknown / Non-Applicable,1,0,3461.54,Nimetler Technologies Private Limited,-1,0,0,0,0,0
 "SRM Technologies
 3.7",Data Scientist,Chennai,"Job Description
 About SRM:
@@ -533,7 +533,7 @@ India
 Zip/Postal Code
 600096
 Show Less
-Report","₹6,72,796 /yr (est.)",501 to 1000 Employees,Company - Private,Information Technology,Information Technology Support Services,1999,Unknown / Non-Applicable,0,0,SRM Technologies,23,1,0,0,0,0
+Report","₹6,72,796 /yr (est.)",501 to 1000 Employees,Company - Private,Information Technology,Information Technology Support Services,1999,Unknown / Non-Applicable,0,0,672796.0,SRM Technologies,23,1,0,0,0,0
 "Hitachi India Pvt, Ltd.
 3.8",Data Scientist / AI-ML Engineer,Bangalore,"Description
 Data Scientist / AI-ML Engineer
@@ -552,7 +552,7 @@ Requirements:
 Special Preference:
 Eminence: Patents, publications, thought leadership, invited speakership and conspicuous presence in refereed platforms or forums of repute.
 Show Less
-Report","₹3,41,776 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Enterprise Software & Network Solutions,1910,$10+ billion (USD),0,0,"Hitachi India Pvt, Ltd.",112,1,0,0,0,1
+Report","₹3,41,776 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Enterprise Software & Network Solutions,1910,$10+ billion (USD),0,0,341776.0,"Hitachi India Pvt, Ltd.",112,1,0,0,0,1
 "Fiddler AI
 4.5",Data Scientist,Bangalore,"Our Purpose
 At Fiddler, we understand the implications of AI and the impact that it has on human lives. Our company was born with the mission of building trust into AI. With the rise of the internet, trust in AI has been degraded by a plethora of issues like spam, fraudulent transactions, hate speech, and online abuse. Fiddler enables organizations to get ahead of these issues by building trustworthy, transparent, and explainable AI solutions.
@@ -585,7 +585,7 @@ A preference for fast-moving work. You're able to identify a course of action th
 Enthusiasm for the responsible use of Artificial Intelligence – for us, this includes explainability, production model monitoring, and algorithmic fairness.
 Fiddler Labs is proud to be an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees
 Show Less
-Report","₹7,34,847 /yr (est.)",51 to 200 Employees,Company - Private,Information Technology,Enterprise Software & Network Solutions,2018,$1 to $5 million (USD),0,0,Fiddler AI,4,1,0,0,0,0
+Report","₹7,34,847 /yr (est.)",51 to 200 Employees,Company - Private,Information Technology,Enterprise Software & Network Solutions,2018,$1 to $5 million (USD),0,0,734847.0,Fiddler AI,4,1,0,0,0,0
 "Nordic Intent
 3.5",Data Scientist,Bardez,"We are looking for a Data Scientist to analyze large amounts of raw information to find patterns that will help improve our company. We will rely on you to build data products to extract valuable business insights. In this role, you should be highly analytical with a knack for analysis, math and statistics. Critical thinking and problem-solving skills are essential for interpreting data. We also want to see a passion for machine-learning and research. Your goal will be to help our company analyze trends to make better decisions.
 Responsibilities
@@ -608,7 +608,7 @@ Strong math skills (e.g. statistics, algebra)
 Problem-solving aptitude
 Excellent communication and presentation skills
 Show Less
-Report","₹4,51,664 /yr (est.)",51 to 200 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable,0,0,Nordic Intent,-1,1,0,0,0,1
+Report","₹4,51,664 /yr (est.)",51 to 200 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable,0,0,451664.0,Nordic Intent,-1,1,0,0,0,1
 "Donaldson
 3.6",Data Scientist,Gurgaon,"Donaldson is committed to solving the world’s most complex filtration challenges. Employing innovation and breakthrough solutions, we are advancing filtration for a cleaner world. We look for the best people to help us succeed, offering opportunities to learn, effect change, and make meaningful contributions at work and in our communities. This is a place where you can make a world of difference.
 Follow Us on LinkedIn:
@@ -649,7 +649,7 @@ Come make a World of Difference!
 Employment opportunities for positions in the United States may require use of information which is subject to the export control regulations of the United States. Hiring decisions for such positions are required by law to be made in compliance with these regulations. Applicants for employment opportunities in other countries must be able to meet the comparable export control requirements of that country and of the United States.
 Our policy is to provide equal employment opportunities to all qualified persons without regard to race, gender, color, disability, national origin, age, religion, union affiliation, sexual orientation, veteran status, citizenship, gender identity and/or expression, or other status protected by law.
 Show Less
-Report","₹4,06,545 /yr (est.)",10000+ Employees,Company - Public,Manufacturing,Machinery Manufacturing,1915,$2 to $5 billion (USD),0,0,Donaldson,107,1,0,1,1,0
+Report","₹4,06,545 /yr (est.)",10000+ Employees,Company - Public,Manufacturing,Machinery Manufacturing,1915,$2 to $5 billion (USD),0,0,406545.0,Donaldson,107,1,0,1,1,0
 "AIBridge ML
 4.9",Jr Data Analyst | Jr Data Scientist,Hyderābād,"Skills and Experience (0 - 2 years):
 Graduate with Strong mathematical and statistical skills and understanding
@@ -660,7 +660,7 @@ Familiarity with NLP(Natural language processing)
 Be flexible and ready to learn
 Apply to careers@aibridgeml.com
 Show Less
-Report","₹4,63,711 /yr (est.)",1 to 50 Employees,Company - Private,Information Technology,Computer Hardware Development,2019,Unknown / Non-Applicable,0,0,AIBridge ML,3,1,0,0,0,0
+Report","₹4,63,711 /yr (est.)",1 to 50 Employees,Company - Private,Information Technology,Computer Hardware Development,2019,Unknown / Non-Applicable,0,0,463711.0,AIBridge ML,3,1,0,0,0,0
 Brimming Grace Capital Pvt Ltd,Deep Learning Intern,Gurgaon,"Please Read Job Description properly.
 Candidates are also required to fill this form.
 https://forms.gle/hXuMDQHEyENAhqHC7
@@ -708,7 +708,7 @@ Computer vision: 1 year (Preferred)
 Python: 1 year (Preferred)
 Django: 1 year (Preferred)
 Show Less
-Report","₹52,276 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Brimming Grace Capital Pvt Ltd,-1,1,0,1,0,1
+Report","₹52,276 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,52276.0,Brimming Grace Capital Pvt Ltd,-1,1,0,1,0,1
 "Mu Sigma | Mega Job-A-Thon
 4.3",Trainee - Data Science,Bangalore,"Solving a problem can be as simple or as complicated as you make it to be. But the key to
 solving a problem is Asking the right questions to enable the process of decision making.
@@ -773,7 +773,7 @@ Qualification
 Graduated B.E/B.Tech any domain in 2019 / 2020/2021/2022 with aggregate of 7 CGPA
 A minimum aggregate of 70% in class 10th and 12th
 Show Less
-Report","₹4,60,976 /yr (est.)",201 to 500 Employees,Company - Private,Education,Colleges & Universities,-1,Unknown / Non-Applicable,0,0,Mu Sigma | Mega Job-A-Thon,-1,1,0,0,0,1
+Report","₹4,60,976 /yr (est.)",201 to 500 Employees,Company - Private,Education,Colleges & Universities,-1,Unknown / Non-Applicable,0,0,460976.0,Mu Sigma | Mega Job-A-Thon,-1,1,0,0,0,1
 Elvira technologies,Data science,Gurgaon,"Job Description
 ProfileJob Description
 Profile: Senior-Level Data Engineer with 5+ years of experience (Geospatial expertise/experience is a plus)
@@ -825,7 +825,7 @@ Experience:
 5yrs: 1 year (Preferred)
 Work Location: One location
 Show Less
-Report","₹6,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Elvira technologies,-1,1,0,0,0,1
+Report","₹6,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,600000.0,Elvira technologies,-1,1,0,0,0,1
 LeadIndia Manpower Services,"Fresher Data Analyst , Data Science , SQL , Python",Hassan,"Key skills :
 
 Advanced Excel, word, PDF skills
@@ -889,7 +889,7 @@ Mobile
 Email ID
 hrashish@leadindia.info
 Show Less
-Report","₹4,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,LeadIndia Manpower Services,-1,1,0,0,0,1
+Report","₹4,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,450000.0,LeadIndia Manpower Services,-1,1,0,0,0,1
 Finarkein Analytics Pvt. Ltd.,Machine Learning Engineer,Pune,"We are looking for a passionate Machine Learning Engineer who will be responsible for adding machine learning based analytics features to our scalable SaaS products.
 Job Details:
 Job Title: Machine Learning Engineer
@@ -929,7 +929,7 @@ Experience:
 Machine learning: 1 year (Preferred)
 Python / R / Java: 1 year (Preferred)
 Show Less
-Report","₹11,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Finarkein Analytics Pvt. Ltd.,-1,1,0,1,0,0
+Report","₹11,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,1100000.0,Finarkein Analytics Pvt. Ltd.,-1,1,0,1,0,0
 SRI SAI TECH AND HR SOLUTIONS PVT .LTD,Data Scientist,Tiruchchirāppalli,"Collect Data and Identify Data Sources
 Analyze Huge Amounts of Data (Structured and Unstructured )
 Data Strategy
@@ -951,7 +951,7 @@ Work Location: One location
 Speak with the employer
 +91 9486970208
 Show Less
-Report","₹5,16,762 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,SRI SAI TECH AND HR SOLUTIONS PVT .LTD,-1,0,0,0,0,0
+Report","₹5,16,762 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,516762.0,SRI SAI TECH AND HR SOLUTIONS PVT .LTD,-1,0,0,0,0,0
 Claim Genius india Pvt Ltd,Junior Data Scientist,Pune,"1. Data Scientist:
 Position: Data Scientist / Sr. Data Scientist / Data Analyst / Sr. Data Analyst
 Experience: 1+/3+ Years[Relevant Skills]
@@ -987,7 +987,7 @@ Speak with the employer
 Application Deadline: 09/12/2022
 Expected Start Date: 02/01/2023
 Show Less
-Report","₹6,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Claim Genius india Pvt Ltd,-1,1,0,0,1,1
+Report","₹6,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,600000.0,Claim Genius india Pvt Ltd,-1,1,0,0,1,1
 "OptiSol Business Solutions Pvt Ltd
 4.5",Machine Learning Engineer,Coimbatore,"Experience: 3 to 5 years
 Salary Range: 8 to 15LPA
@@ -1033,7 +1033,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 9940775556
 Show Less
-Report","₹11,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2007,$5 to $25 million (USD),0,0,OptiSol Business Solutions Pvt Ltd,15,1,0,0,1,0
+Report","₹11,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2007,$5 to $25 million (USD),0,0,1150000.0,OptiSol Business Solutions Pvt Ltd,15,1,0,0,1,0
 "Think Future Technologies
 4.5",Junior Data Scientist,Gurgaon,"Exp: 1+ years
 Location: Gurgaon/Remote
@@ -1046,7 +1046,7 @@ Experienced in the design and usage of relational databases (SQL, PostgreSQL)
 Experienced with testing frameworks (e.g. PyTest)
 Experienced with Docker containers in the context of training and deploying ML models
 Show Less
-Report","₹5,72,794 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2006,$5 to $25 million (USD),0,0,Think Future Technologies,16,1,0,0,0,0
+Report","₹5,72,794 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2006,$5 to $25 million (USD),0,0,572794.0,Think Future Technologies,16,1,0,0,0,0
 Geosense Systems and Technologies,Data Science/ Data Analyst,Eranakulam,"Job Title: Data Science/ Data Analyst
 Good Knowledge in MS SQL server, MS Office
 Key Skiils: Data visualisation and tools.
@@ -1066,7 +1066,7 @@ Experience:
 total work: 1 year (Preferred)
 Work Location: One location
 Show Less
-Report","₹12,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Geosense Systems and Technologies,-1,0,0,0,0,0
+Report","₹12,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,12500.0,Geosense Systems and Technologies,-1,0,0,0,0,0
 Evvo Technology Solutions Pvt Ltd,Machine Learning Engineer,Chennai,"Machine Learning Engineer - 3 positions
 Experience - 8+ years Experience
 Master’s degree in Computer Science, Mathematics or similar field
@@ -1094,7 +1094,7 @@ Chennai - 600096, Tamil Nadu: Reliably commute or planning to relocate before st
 Experience:
 total work: 8 years (Required)
 Show Less
-Report","₹50,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Evvo Technology Solutions Pvt Ltd,-1,1,0,1,0,1
+Report","₹50,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,50000.0,Evvo Technology Solutions Pvt Ltd,-1,1,0,1,0,1
 InTechHub Solutions,AI/ML Engineer,Remote,"Job description
 Able to handle End-to-End Machine Learning workflow which includes activities like Data Collection, Feature Engineering and Data transformation, Model training, and deploying models in production
 Hands-on experience in Deep Learning models for computer vision problems with Expert level knowledge with Deep Learning frameworks TensorFlow, Keras, Fastai, and PyTorch and Computer Vision libraries like OpenCV, OpenVino, SciPy, NumPy, TensorRT, CUDA
@@ -1138,7 +1138,7 @@ total work: 2 years (Preferred)
 AI/ML: 1 year (Preferred)
 Computer Vision or Image modelling: 1 year (Preferred)
 Show Less
-Report","$8,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,InTechHub Solutions,-1,0,0,1,0,1
+Report","$8,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,800000.0,InTechHub Solutions,-1,0,0,1,0,1
 "Alphanet
 4.4",Machine Learning Engineer,Mohali,"Machine Learning Engineer / Automation
 WFH
@@ -1169,7 +1169,7 @@ Supplemental pay types:
 Joining bonus
 Performance bonus
 Show Less
-Report","₹22,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2001,$25 to $50 million (USD),0,0,Alphanet,21,1,0,0,1,0
+Report","₹22,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2001,$25 to $50 million (USD),0,0,2250000.0,Alphanet,21,1,0,0,1,0
 "Eve World Platform
 4.5",Python Machine Learning Engineer,Remote,"ABOUT EVE WORLD
 Eve World is a deep tech social media, community & e-commerce mobile super app; web3, DAO, Blockchain based, bridging the gap in providing freedom in the virtual world through relatable multi-format, entertaining content, creator and community tools.
@@ -1200,7 +1200,7 @@ Schedule:
 Day shift
 Monday to Friday
 Show Less
-Report","$2,10,000 /mo (est.)",51 to 200 Employees,Company - Private,Information Technology,Software Development,2021,Unknown / Non-Applicable,0,1,Eve World Platform,1,1,0,0,0,0
+Report","$2,10,000 /mo (est.)",51 to 200 Employees,Company - Private,Information Technology,Software Development,2021,Unknown / Non-Applicable,0,1,210000.0,Eve World Platform,1,1,0,0,0,0
 DeployAD.Inc,Machine Learning Engineer,Nilambūr,"Urgently Require Machine Learning Engineer.
 Requirements: -
 Graduate ( Preferably Science/ Computer Science/ Electronic and Engineering/ Information Technology)
@@ -1214,7 +1214,7 @@ Day shift
 Speak with the employer
 +91 8139074545
 Show Less
-Report","₹32,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,DeployAD.Inc,-1,0,0,0,0,0
+Report","₹32,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,32500.0,DeployAD.Inc,-1,0,0,0,0,0
 LEAZ EDUTECH OPC PVT LTD,Data Scientist,Bangalore,"ASSOCIATE DATA SCIENTIST
 JOB DESCRIPTION :
 Job Role and Summary :
@@ -1253,7 +1253,7 @@ New Delhi, Delhi: Reliably commute or planning to relocate before starting work 
 Experience:
 total work: 1 year (Preferred)
 Show Less
-Report","₹5,55,152 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,LEAZ EDUTECH OPC PVT LTD,-1,1,0,0,0,1
+Report","₹5,55,152 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,555152.0,LEAZ EDUTECH OPC PVT LTD,-1,1,0,0,0,1
 "Tru View
 4.8",Data scientist,Mumbai,"Job Summary
 Do you think working for a growing start-up is intriguing?
@@ -1281,7 +1281,7 @@ Job Type: Full-time
 Schedule:
 Monday to Friday
 Show Less
-Report","₹3,13,064 /yr (est.)",51 to 200 Employees,Company - Private,Information Technology,Internet & Web Services,1995,Unknown / Non-Applicable,0,0,Tru View,27,0,0,0,0,0
+Report","₹3,13,064 /yr (est.)",51 to 200 Employees,Company - Private,Information Technology,Internet & Web Services,1995,Unknown / Non-Applicable,0,0,313064.0,Tru View,27,0,0,0,0,0
 "Samsung Electro-Mechanics
 3.5",Machine Learning Engineer,Bangalore,"Job Responsibilities:
 ·Work with deep learning experts to design and implement networks optimized for GPU-accelerated inference
@@ -1328,7 +1328,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 9148758311
 Show Less
-Report","₹1,00,000 /mo (est.)",1001 to 5000 Employees,Subsidiary or Business Segment,Information Technology,Computer Hardware Development,1938,$10+ billion (USD),0,1,Samsung Electro-Mechanics,84,1,0,0,0,1
+Report","₹1,00,000 /mo (est.)",1001 to 5000 Employees,Subsidiary or Business Segment,Information Technology,Computer Hardware Development,1938,$10+ billion (USD),0,1,100000.0,Samsung Electro-Mechanics,84,1,0,0,0,1
 INTEGRATED SERVICES,Machine Learning Engineer,Bangalore,"We are looking for Machine Learning Engineer (Remote ) for our reputed client , details as folows
 Prior Experience as Machine Learning Engineer or similar role
 Understanding of Data Modelling and Data Structures and software architecture
@@ -1346,7 +1346,7 @@ total work: 5 years (Required)
 Speak with the employer
 +91 9830895196
 Show Less
-Report","₹21,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,INTEGRATED SERVICES,-1,1,0,0,0,0
+Report","₹21,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,2100000.0,INTEGRATED SERVICES,-1,1,0,0,0,0
 Techno8ive Inn Pvt Ltd,Data Scientist & ML Engineer,Noida,"Responsibilities
 Identify valuable data sources and automate collection processes.
 Undertake preprocessing of structured and unstructured data
@@ -1378,7 +1378,7 @@ Speak with the employer
 +91 8882209073
 Expected Start Date: 24/10/2022
 Show Less
-Report","₹11,50,000 /yr (est.)",1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable,0,0,Techno8ive Inn Pvt Ltd,-1,0,0,0,1,0
+Report","₹11,50,000 /yr (est.)",1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable,0,0,1150000.0,Techno8ive Inn Pvt Ltd,-1,0,0,0,1,0
 Evolve robot Lab,Artificial Intelligence Internship,India,"About Company: Evolve Robot Lab is the India's first robot innovation lab for Robotics Engineering & Artificial Intelligence Solution.
 Robotics research company"", with the grand vision to improve the quality of life in the very part of India with various deep tech solutions.
 Who we are: Robotics start-up with young creative team based out of Madras, Tamilnadu We are making affordable robotics product for both industrial & military application.
@@ -1418,7 +1418,7 @@ Performance bonus
 Education:
 Bachelor's (Preferred)
 Show Less
-Report","₹12,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Evolve robot Lab,-1,0,0,0,0,0
+Report","₹12,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,12000.0,Evolve robot Lab,-1,0,0,0,0,0
 "Aurawoo International
 5.0",Data scientist,Remote,"jaipur
 Job Country: India
@@ -1439,7 +1439,7 @@ Hiring Need: Within 30 days
 Job Description: A good job description starts with an attention-grabbing summary of the position and its role within your company. Your summary should provide an overview of your company and expectations for the position. Outline the types of activities and responsibilities required for the job so job seekers can determine if they are qualified, or if the job is suitable for them.
 Job Requirement: A good job description starts with an attention-grabbing summary of the position and its role within your company. Your summary should provide an overview of your company and expectations for the position. Outline the types of activities and responsibilities required for the job so job seekers can determine if they are qualified, or if the job is suitable for them.
 Show Less
-Report","$16,00,000 /yr (est.)",201 to 500 Employees,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,Aurawoo International,-1,0,0,0,0,0
+Report","$16,00,000 /yr (est.)",201 to 500 Employees,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,1600000.0,Aurawoo International,-1,0,0,0,0,0
 Nustar technologies,Machine Learning Engineer,India,"JOB LOCATION - BHUBANESHWAR
 EXPERIENCE - 4+ YEARS
 Good communication skills
@@ -1461,7 +1461,7 @@ Bhubaneshwar - 750001, Odisha: Reliably commute or planning to relocate before s
 Experience:
 total work: 4 years (Preferred)
 Show Less
-Report","₹9,68,126 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Nustar technologies,-1,1,0,0,0,0
+Report","₹9,68,126 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,968126.0,Nustar technologies,-1,1,0,0,0,0
 Trovech Infotech Pvt Ltd,Data Scientist,Bangalore,"JD for Data Scientist Responsibilities & Skills · PhD in Statistics, Math or Computer Science is preferred. Must have at least a Master degree with 5+ years of experience. · Excellent statistical analysis skills to identify patterns in data. This includes having a keen sense of pattern detection and anomaly detection. · Excellent understanding of machine learning techniques and algorithms, such as k-NN, · Naive Bayes, SVM, Decision Forests, etc. · Must be able to implement algorithms and statistical concepts to build predictive models. · In-depth experience with common data science tools such as TensorFlow, PyTorch or equivalent. · Proficient in programming with python, SQL and No-SQL databases; and data science libraries such as nltk, numpy, scipy and many others · Communicate with global English speaking teams. · Expertise in collaborating with multi-disciplinary teams of business analysts, data scientists, subject matter experts, and developers For more information Contact HR Ranjini 7760520330
 Job Type: Full-time
 Salary: From ₹80,000.00 per month
@@ -1470,7 +1470,7 @@ Morning shift
 Speak with the employer
 +91 7760520330
 Show Less
-Report","₹80,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Trovech Infotech Pvt Ltd,-1,1,0,0,0,1
+Report","₹80,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,80000.0,Trovech Infotech Pvt Ltd,-1,1,0,0,0,1
 "Globussoft Technologies
 4.4",Data Science,Bangalore,"Job Description: DATA SCIENTIST
 
@@ -1492,7 +1492,7 @@ Use predictive modeling to increase and optimize customer experiences, revenue g
 Requirements
 Machine Learning, Python, NLP, Deep Learning, Data Scraping, Knowledge of SQL and NoSQL is a plus point.
 Show Less
-Report","₹3,60,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Computer Hardware Development,2009,$5 to $25 million (USD),0,0,Globussoft Technologies,13,1,0,0,0,0
+Report","₹3,60,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Computer Hardware Development,2009,$5 to $25 million (USD),0,0,360000.0,Globussoft Technologies,13,1,0,0,0,0
 "Plushvie
 4.0",AI/ML Engineer,India,"Skills
 Programming languages, preferably Python, R is necessary.
@@ -1527,7 +1527,7 @@ Experience:
 total work: 2 years (Preferred)
 Work Location: One location
 Show Less
-Report","₹42,500 /mo (est.)",1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable,0,1,Plushvie,-1,1,0,1,0,0
+Report","₹42,500 /mo (est.)",1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable,0,1,42500.0,Plushvie,-1,1,0,1,0,0
 "Eve World Platform
 4.5",Python Machine Learning Engineer,Remote,"ABOUT EVE WORLD
 Eve World is a deep tech social media, community & e-commerce mobile super app; web3, DAO, Blockchain based, bridging the gap in providing freedom in the virtual world through relatable multi-format, entertaining content, creator and community tools.
@@ -1558,7 +1558,7 @@ Schedule:
 Day shift
 Monday to Friday
 Show Less
-Report","$2,10,000 /mo (est.)",51 to 200 Employees,Company - Private,Information Technology,Software Development,2021,Unknown / Non-Applicable,0,1,Eve World Platform,1,1,0,0,0,0
+Report","$2,10,000 /mo (est.)",51 to 200 Employees,Company - Private,Information Technology,Software Development,2021,Unknown / Non-Applicable,0,1,210000.0,Eve World Platform,1,1,0,0,0,0
 "OptiSol Business Solutions Pvt Ltd
 4.5",Machine Learning Engineer,Coimbatore,"Experience: 3 to 5 years
 Salary Range: 8 to 15LPA
@@ -1604,7 +1604,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 9940775556
 Show Less
-Report","₹11,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2007,$5 to $25 million (USD),0,0,OptiSol Business Solutions Pvt Ltd,15,1,0,0,1,0
+Report","₹11,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2007,$5 to $25 million (USD),0,0,1150000.0,OptiSol Business Solutions Pvt Ltd,15,1,0,0,1,0
 Finarkein Analytics Pvt. Ltd.,Machine Learning Engineer,Pune,"We are looking for a passionate Machine Learning Engineer who will be responsible for adding machine learning based analytics features to our scalable SaaS products.
 Job Details:
 Job Title: Machine Learning Engineer
@@ -1644,7 +1644,7 @@ Experience:
 Machine learning: 1 year (Preferred)
 Python / R / Java: 1 year (Preferred)
 Show Less
-Report","₹11,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Finarkein Analytics Pvt. Ltd.,-1,1,0,1,0,0
+Report","₹11,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,1100000.0,Finarkein Analytics Pvt. Ltd.,-1,1,0,1,0,0
 Brimming Grace Capital Pvt Ltd,Deep Learning Intern,Gurgaon,"Please Read Job Description properly.
 Candidates are also required to fill this form.
 https://forms.gle/hXuMDQHEyENAhqHC7
@@ -1692,7 +1692,7 @@ Computer vision: 1 year (Preferred)
 Python: 1 year (Preferred)
 Django: 1 year (Preferred)
 Show Less
-Report","₹52,276 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Brimming Grace Capital Pvt Ltd,-1,1,0,1,0,1
+Report","₹52,276 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,52276.0,Brimming Grace Capital Pvt Ltd,-1,1,0,1,0,1
 "Larsen & Toubro Limited
 3.5",Computer Vision/Artificial Intelligence,Chennai,"Smart World And CommunicationChennai Head Qrs.
 Required Experience
@@ -1738,7 +1738,7 @@ Solid understanding of state-of-the-art capabilities and design of sensing and c
 Strong working knowledge in networking and other data-centre technologies
 Strong problem solving and logical skills & A Go-getter kind of attitude
 Show Less
-Report","₹3,65,335 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,2014,$500 million to $1 billion (USD),0,0,Larsen & Toubro Limited,8,1,0,0,1,0
+Report","₹3,65,335 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,2014,$500 million to $1 billion (USD),0,0,365335.0,Larsen & Toubro Limited,8,1,0,0,1,0
 UniConverge Technologies Pvt. Ltd.,Machine Learning/ Data Science Trainer,Noida,"Job Summary
 Give training on Data Science, Machine Learning and AI
 Responsibilities and Duties
@@ -1760,7 +1760,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 7829246239
 Show Less
-Report","₹67,897 /mo (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,UniConverge Technologies Pvt. Ltd.,-1,1,0,0,0,0
+Report","₹67,897 /mo (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,67897.0,UniConverge Technologies Pvt. Ltd.,-1,1,0,0,0,0
 Hire Me Technology Limited,Computer Vision / Machine Learning Engineer (Remote),New Delhi,"We are looking for excellent Computer Vision engineers who can take initiatives, design, and develop advanced machine learning solutions, and deploy them directly to the given platform. A talented machine learning engineer with expertise in computer vision and can apply different kinds of machine learning models to a diverse range of exciting and impactful client projects especially human detection, face tracking and augmented reality with human face, and augmented reality in Indoor/Outdoor environment. To be successful in this role, you need a strong machine learning experience with Computer Vision background, experience in deploying models to the cloud such as AWS, solid software development skills and docker, a love of learning, and to collaborate well in multi-disciplinary teams.
 A successful candidate will take pride in working with engineers, product managers and business partners to identity and solve the most challenging safety and integrity problems in the internet scale. Candidate will conduct research on deep learning for application processors and multimedia processors with applications such as computer vision, or image and video processing. Candidate will work as part of a team on the system design, implementation, and verification of algorithms for application processors and multimedia processors. As a member of the team, you will develop innovative and sophisticated solutions to some of the most complex strategic business challenges. You will need to exhibit strong communication and leadership skills, an ability to set priorities, and an execution focus in a dynamic environment.
 ⃟Lead to build the trust and safety machine learning production models.
@@ -1788,7 +1788,7 @@ Morning shift
 Experience:
 Computer vision: 2 years (Preferred)
 Show Less
-Report","₹4,09,878 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,Hire Me Technology Limited,-1,1,0,0,1,1
+Report","₹4,09,878 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,409878.0,Hire Me Technology Limited,-1,1,0,0,1,1
 "Alphanet
 4.4",Machine Learning Engineer,Mohali,"Machine Learning Engineer / Automation
 WFH
@@ -1819,7 +1819,7 @@ Supplemental pay types:
 Joining bonus
 Performance bonus
 Show Less
-Report","₹22,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2001,$25 to $50 million (USD),0,0,Alphanet,21,1,0,0,1,0
+Report","₹22,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2001,$25 to $50 million (USD),0,0,2250000.0,Alphanet,21,1,0,0,1,0
 vwex edutech pvt ltd,Artificial Intelligence and Machine Learning,Thrissur,"Training will be provided online for 3 months initially.
 Responsibilities: -
 Provide technical leadership and implementation for projects supporting our AI and machine learning goals
@@ -1842,7 +1842,7 @@ Salary: From ₹15,000.00 per month
 Speak with the employer
 +91 9526637373
 Show Less
-Report","₹15,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,vwex edutech pvt ltd,-1,1,0,0,0,0
+Report","₹15,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,15000.0,vwex edutech pvt ltd,-1,1,0,0,0,0
 "Samsung Electro-Mechanics
 3.5",Machine Learning Engineer,Bangalore,"Job Responsibilities:
 ·Work with deep learning experts to design and implement networks optimized for GPU-accelerated inference
@@ -1889,7 +1889,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 9148758311
 Show Less
-Report","₹1,00,000 /mo (est.)",1001 to 5000 Employees,Subsidiary or Business Segment,Information Technology,Computer Hardware Development,1938,$10+ billion (USD),0,1,Samsung Electro-Mechanics,84,1,0,0,0,1
+Report","₹1,00,000 /mo (est.)",1001 to 5000 Employees,Subsidiary or Business Segment,Information Technology,Computer Hardware Development,1938,$10+ billion (USD),0,1,100000.0,Samsung Electro-Mechanics,84,1,0,0,0,1
 Nustar technologies,Machine Learning Engineer,India,"JOB LOCATION - BHUBANESHWAR
 EXPERIENCE - 4+ YEARS
 Good communication skills
@@ -1911,7 +1911,7 @@ Bhubaneshwar - 750001, Odisha: Reliably commute or planning to relocate before s
 Experience:
 total work: 4 years (Preferred)
 Show Less
-Report","₹9,68,126 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Nustar technologies,-1,1,0,0,0,0
+Report","₹9,68,126 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,968126.0,Nustar technologies,-1,1,0,0,0,0
 INTEGRATED SERVICES,Machine Learning Engineer,Bangalore,"We are looking for Machine Learning Engineer (Remote ) for our reputed client , details as folows
 Prior Experience as Machine Learning Engineer or similar role
 Understanding of Data Modelling and Data Structures and software architecture
@@ -1929,7 +1929,7 @@ total work: 5 years (Required)
 Speak with the employer
 +91 9830895196
 Show Less
-Report","₹21,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,INTEGRATED SERVICES,-1,1,0,0,0,0
+Report","₹21,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,2100000.0,INTEGRATED SERVICES,-1,1,0,0,0,0
 Claim Genius india Pvt Ltd,Junior Data Scientist,Pune,"1. Data Scientist:
 Position: Data Scientist / Sr. Data Scientist / Data Analyst / Sr. Data Analyst
 Experience: 1+/3+ Years[Relevant Skills]
@@ -1965,7 +1965,7 @@ Speak with the employer
 Application Deadline: 09/12/2022
 Expected Start Date: 02/01/2023
 Show Less
-Report","₹6,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Claim Genius india Pvt Ltd,-1,1,0,0,1,1
+Report","₹6,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,600000.0,Claim Genius india Pvt Ltd,-1,1,0,0,1,1
 "Mu Sigma | Mega Job-A-Thon
 4.3",Trainee - Data Science,Bangalore,"Solving a problem can be as simple or as complicated as you make it to be. But the key to
 solving a problem is Asking the right questions to enable the process of decision making.
@@ -2030,7 +2030,7 @@ Qualification
 Graduated B.E/B.Tech any domain in 2019 / 2020/2021/2022 with aggregate of 7 CGPA
 A minimum aggregate of 70% in class 10th and 12th
 Show Less
-Report","₹4,60,976 /yr (est.)",201 to 500 Employees,Company - Private,Education,Colleges & Universities,-1,Unknown / Non-Applicable,0,0,Mu Sigma | Mega Job-A-Thon,-1,1,0,0,0,1
+Report","₹4,60,976 /yr (est.)",201 to 500 Employees,Company - Private,Education,Colleges & Universities,-1,Unknown / Non-Applicable,0,0,460976.0,Mu Sigma | Mega Job-A-Thon,-1,1,0,0,0,1
 Innomatics Research Labs,Machine Learning and AI Trainer,Hyderābād,"Job description
 Experience
 Minimum 4+ Years of experience in machine learning & data analytics,AI.
@@ -2065,7 +2065,7 @@ total work: 1 year (Preferred)
 Speak with the employer
 +91 8008441993
 Show Less
-Report","₹12,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Innomatics Research Labs,-1,1,0,0,1,0
+Report","₹12,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,1200000.0,Innomatics Research Labs,-1,1,0,0,1,0
 Centre For Translational Cancer Research -Prashanti Cancer Care Mission,Junior Data Scientist (Breast Cancer Clinical Data),Pune,"Job Description: Junior Data Scientist (Breast Cancer Clinical Data)
 We at PCCM-CTCR are looking for the following candidate to join our Data Team to evolve the existing system and design the needed schema for research and medical-related data.
 Responsibilities:
@@ -2100,7 +2100,7 @@ List experience or degree in Biological Sciences
 Experience:
 total work: 2 years (Required)
 Show Less
-Report","₹30,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Centre For Translational Cancer Research -Prashanti Cancer Care Mission,-1,1,0,0,0,0
+Report","₹30,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,30000.0,Centre For Translational Cancer Research -Prashanti Cancer Care Mission,-1,1,0,0,0,0
 "Mercedes-Benz Research and Development India Private Limited
 4.2",Computer Vision Research/ Platform Engineer - Machine Learning,Bangalore,"Aufgaben
 Summary:
@@ -2135,7 +2135,7 @@ Experience working with synthetic and artificial data to solve real world proble
 
 Exposure to neural network libraries like Caffe, PyTorch, Theano or TensorFlow.
 Show Less
-Report","₹8,33,972 /yr (est.)",10000+ Employees,Company - Public,Manufacturing,Transportation Equipment Manufacturing,1886,Unknown / Non-Applicable,0,0,Mercedes-Benz Research and Development India Private Limited,136,1,0,0,0,0
+Report","₹8,33,972 /yr (est.)",10000+ Employees,Company - Public,Manufacturing,Transportation Equipment Manufacturing,1886,Unknown / Non-Applicable,0,0,833972.0,Mercedes-Benz Research and Development India Private Limited,136,1,0,0,0,0
 AgEye Technologies,Computer Vision Engineer,Bangalore,"Job: Computer Vision Engineer
 Position Type: Full-time – Permanent
 Location: Bangalore, Karnataka (IN)
@@ -2180,7 +2180,7 @@ Monday to Friday
 Speak with the employer
 +91 9113072108
 Show Less
-Report","₹9,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,AgEye Technologies,-1,1,0,0,1,1
+Report","₹9,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,950000.0,AgEye Technologies,-1,1,0,0,1,1
 Evvo Technology Solutions Pvt Ltd,Machine Learning Engineer,Chennai,"Machine Learning Engineer - 3 positions
 Experience - 8+ years Experience
 Master’s degree in Computer Science, Mathematics or similar field
@@ -2208,7 +2208,7 @@ Chennai - 600096, Tamil Nadu: Reliably commute or planning to relocate before st
 Experience:
 total work: 8 years (Required)
 Show Less
-Report","₹50,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Evvo Technology Solutions Pvt Ltd,-1,1,0,1,0,1
+Report","₹50,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,50000.0,Evvo Technology Solutions Pvt Ltd,-1,1,0,1,0,1
 Trovech Infotech Pvt Ltd,Data Scientist,Bangalore,"JD for Data Scientist Responsibilities & Skills · PhD in Statistics, Math or Computer Science is preferred. Must have at least a Master degree with 5+ years of experience. · Excellent statistical analysis skills to identify patterns in data. This includes having a keen sense of pattern detection and anomaly detection. · Excellent understanding of machine learning techniques and algorithms, such as k-NN, · Naive Bayes, SVM, Decision Forests, etc. · Must be able to implement algorithms and statistical concepts to build predictive models. · In-depth experience with common data science tools such as TensorFlow, PyTorch or equivalent. · Proficient in programming with python, SQL and No-SQL databases; and data science libraries such as nltk, numpy, scipy and many others · Communicate with global English speaking teams. · Expertise in collaborating with multi-disciplinary teams of business analysts, data scientists, subject matter experts, and developers For more information Contact HR Ranjini 7760520330
 Job Type: Full-time
 Salary: From ₹80,000.00 per month
@@ -2217,7 +2217,7 @@ Morning shift
 Speak with the employer
 +91 7760520330
 Show Less
-Report","₹80,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Trovech Infotech Pvt Ltd,-1,1,0,0,0,1
+Report","₹80,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,80000.0,Trovech Infotech Pvt Ltd,-1,1,0,0,0,1
 InTechHub Solutions,AI/ML Engineer,Remote,"Job description
 Able to handle End-to-End Machine Learning workflow which includes activities like Data Collection, Feature Engineering and Data transformation, Model training, and deploying models in production
 Hands-on experience in Deep Learning models for computer vision problems with Expert level knowledge with Deep Learning frameworks TensorFlow, Keras, Fastai, and PyTorch and Computer Vision libraries like OpenCV, OpenVino, SciPy, NumPy, TensorRT, CUDA
@@ -2261,7 +2261,7 @@ total work: 2 years (Preferred)
 AI/ML: 1 year (Preferred)
 Computer Vision or Image modelling: 1 year (Preferred)
 Show Less
-Report","$8,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,InTechHub Solutions,-1,0,0,1,0,1
+Report","$8,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,800000.0,InTechHub Solutions,-1,0,0,1,0,1
 Railofy,Machine Learning Engineer,Mumbai,"About the Team & Role:
 Railofy is solving the largest problems for Indian Railway passengers (90% of Indians travel by trains) – waitlisted tickets and quality of food in trains. We are a young team of technologists who have made a significant breakthrough in this field using Machine Learning, in order to create a major impact in the lives of Indians.
 Machine Learning Engineers at Railofy lead all the processes from data collection, cleaning, and preprocessing, to training models and deploying them to production. The ideal candidate will be passionate about artificial intelligence and stay up-to-date with the latest developments in the field.
@@ -2311,7 +2311,7 @@ Are you a Computer Science or IT Engineering Graduate / Post Graduate with solid
 Work Location: Hybrid remote in Greater Mumbai, Mumbai - 400014, Maharashtra
 Expected Start Date: 16/01/2023
 Show Less
-Report","₹14,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Railofy,-1,1,0,0,1,0
+Report","₹14,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,1400000.0,Railofy,-1,1,0,0,1,0
 "Mercedes-Benz Research and Development India Private Limited
 4.2",Computer Vision Research Engineer - Machine Learning,Bangalore,"Aufgaben
 Summary:
@@ -2346,7 +2346,7 @@ Experience working with synthetic and artificial data to solve real world proble
 
 Exposure to neural network libraries like Caffe, PyTorch, Theano or TensorFlow.
 Show Less
-Report","₹3,95,753 /yr (est.)",10000+ Employees,Company - Public,Manufacturing,Transportation Equipment Manufacturing,1886,Unknown / Non-Applicable,0,0,Mercedes-Benz Research and Development India Private Limited,136,1,0,0,0,0
+Report","₹3,95,753 /yr (est.)",10000+ Employees,Company - Public,Manufacturing,Transportation Equipment Manufacturing,1886,Unknown / Non-Applicable,0,0,395753.0,Mercedes-Benz Research and Development India Private Limited,136,1,0,0,0,0
 Evolve robot Lab,Artificial Intelligence Internship,India,"About Company: Evolve Robot Lab is the India's first robot innovation lab for Robotics Engineering & Artificial Intelligence Solution.
 Robotics research company"", with the grand vision to improve the quality of life in the very part of India with various deep tech solutions.
 Who we are: Robotics start-up with young creative team based out of Madras, Tamilnadu We are making affordable robotics product for both industrial & military application.
@@ -2386,7 +2386,7 @@ Performance bonus
 Education:
 Bachelor's (Preferred)
 Show Less
-Report","₹12,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Evolve robot Lab,-1,0,0,0,0,0
+Report","₹12,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,12000.0,Evolve robot Lab,-1,0,0,0,0,0
 DeployAD.Inc,Machine Learning Engineer,Nilambūr,"Urgently Require Machine Learning Engineer.
 Requirements: -
 Graduate ( Preferably Science/ Computer Science/ Electronic and Engineering/ Information Technology)
@@ -2400,7 +2400,7 @@ Day shift
 Speak with the employer
 +91 8139074545
 Show Less
-Report","₹32,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,DeployAD.Inc,-1,0,0,0,0,0
+Report","₹32,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,32500.0,DeployAD.Inc,-1,0,0,0,0,0
 Careerdimensions,Data Scientist,India,"Hello
 There are job openings for Data Scientist role.
 Job description is as follow , Interested candidates can send you profiles
@@ -2440,7 +2440,7 @@ Hinjawadi, Pune - 411057, Maharashtra: Reliably commute or planning to relocate 
 Experience:
 total work: 1 year (Preferred)
 Show Less
-Report","₹15,05,117 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Careerdimensions,-1,1,0,0,0,0
+Report","₹15,05,117 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,1505117.0,Careerdimensions,-1,1,0,0,0,0
 Brimming Grace Capital Pvt Ltd,Deep Learning Intern,Gurgaon,"Please Read Job Description properly.
 Candidates are also required to fill this form.
 https://forms.gle/hXuMDQHEyENAhqHC7
@@ -2488,7 +2488,7 @@ Computer vision: 1 year (Preferred)
 Python: 1 year (Preferred)
 Django: 1 year (Preferred)
 Show Less
-Report","₹52,276 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Brimming Grace Capital Pvt Ltd,-1,1,0,1,0,1
+Report","₹52,276 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,52276.0,Brimming Grace Capital Pvt Ltd,-1,1,0,1,0,1
 "OptiSol Business Solutions Pvt Ltd
 4.5",Machine Learning Engineer,Coimbatore,"Experience: 3 to 5 years
 Salary Range: 8 to 15LPA
@@ -2534,7 +2534,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 9940775556
 Show Less
-Report","₹11,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2007,$5 to $25 million (USD),0,0,OptiSol Business Solutions Pvt Ltd,15,1,0,0,1,0
+Report","₹11,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2007,$5 to $25 million (USD),0,0,1150000.0,OptiSol Business Solutions Pvt Ltd,15,1,0,0,1,0
 Centre For Translational Cancer Research -Prashanti Cancer Care Mission,Junior Data Scientist (Breast Cancer Clinical Data),Pune,"Job Description: Junior Data Scientist (Breast Cancer Clinical Data)
 We at PCCM-CTCR are looking for the following candidate to join our Data Team to evolve the existing system and design the needed schema for research and medical-related data.
 Responsibilities:
@@ -2569,7 +2569,7 @@ List experience or degree in Biological Sciences
 Experience:
 total work: 2 years (Required)
 Show Less
-Report","₹30,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Centre For Translational Cancer Research -Prashanti Cancer Care Mission,-1,1,0,0,0,0
+Report","₹30,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,30000.0,Centre For Translational Cancer Research -Prashanti Cancer Care Mission,-1,1,0,0,0,0
 "Larsen & Toubro Limited
 3.5",Computer Vision/Artificial Intelligence,Chennai,"Smart World And CommunicationChennai Head Qrs.
 Required Experience
@@ -2615,7 +2615,7 @@ Solid understanding of state-of-the-art capabilities and design of sensing and c
 Strong working knowledge in networking and other data-centre technologies
 Strong problem solving and logical skills & A Go-getter kind of attitude
 Show Less
-Report","₹3,65,335 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,2014,$500 million to $1 billion (USD),0,0,Larsen & Toubro Limited,8,1,0,0,1,0
+Report","₹3,65,335 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,2014,$500 million to $1 billion (USD),0,0,365335.0,Larsen & Toubro Limited,8,1,0,0,1,0
 Evolve robot Lab,Artificial Intelligence Internship,India,"About Company: Evolve Robot Lab is the India's first robot innovation lab for Robotics Engineering & Artificial Intelligence Solution.
 Robotics research company"", with the grand vision to improve the quality of life in the very part of India with various deep tech solutions.
 Who we are: Robotics start-up with young creative team based out of Madras, Tamilnadu We are making affordable robotics product for both industrial & military application.
@@ -2655,7 +2655,7 @@ Performance bonus
 Education:
 Bachelor's (Preferred)
 Show Less
-Report","₹12,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Evolve robot Lab,-1,0,0,0,0,0
+Report","₹12,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,12000.0,Evolve robot Lab,-1,0,0,0,0,0
 Hire Me Technology Limited,Computer Vision / Machine Learning Engineer (Remote),New Delhi,"We are looking for excellent Computer Vision engineers who can take initiatives, design, and develop advanced machine learning solutions, and deploy them directly to the given platform. A talented machine learning engineer with expertise in computer vision and can apply different kinds of machine learning models to a diverse range of exciting and impactful client projects especially human detection, face tracking and augmented reality with human face, and augmented reality in Indoor/Outdoor environment. To be successful in this role, you need a strong machine learning experience with Computer Vision background, experience in deploying models to the cloud such as AWS, solid software development skills and docker, a love of learning, and to collaborate well in multi-disciplinary teams.
 A successful candidate will take pride in working with engineers, product managers and business partners to identity and solve the most challenging safety and integrity problems in the internet scale. Candidate will conduct research on deep learning for application processors and multimedia processors with applications such as computer vision, or image and video processing. Candidate will work as part of a team on the system design, implementation, and verification of algorithms for application processors and multimedia processors. As a member of the team, you will develop innovative and sophisticated solutions to some of the most complex strategic business challenges. You will need to exhibit strong communication and leadership skills, an ability to set priorities, and an execution focus in a dynamic environment.
 ⃟Lead to build the trust and safety machine learning production models.
@@ -2683,7 +2683,7 @@ Morning shift
 Experience:
 Computer vision: 2 years (Preferred)
 Show Less
-Report","₹4,09,878 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,Hire Me Technology Limited,-1,1,0,0,1,1
+Report","₹4,09,878 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,409878.0,Hire Me Technology Limited,-1,1,0,0,1,1
 UniConverge Technologies Pvt. Ltd.,Machine Learning/ Data Science Trainer,Noida,"Job Summary
 Give training on Data Science, Machine Learning and AI
 Responsibilities and Duties
@@ -2705,7 +2705,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 7829246239
 Show Less
-Report","₹67,897 /mo (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,UniConverge Technologies Pvt. Ltd.,-1,1,0,0,0,0
+Report","₹67,897 /mo (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,67897.0,UniConverge Technologies Pvt. Ltd.,-1,1,0,0,0,0
 "Mercedes-Benz Research and Development India Private Limited
 4.2",Computer Vision Research/ Platform Engineer - Machine Learning,Bangalore,"Aufgaben
 Summary:
@@ -2740,7 +2740,7 @@ Experience working with synthetic and artificial data to solve real world proble
 
 Exposure to neural network libraries like Caffe, PyTorch, Theano or TensorFlow.
 Show Less
-Report","₹8,33,972 /yr (est.)",10000+ Employees,Company - Public,Manufacturing,Transportation Equipment Manufacturing,1886,Unknown / Non-Applicable,0,0,Mercedes-Benz Research and Development India Private Limited,136,1,0,0,0,0
+Report","₹8,33,972 /yr (est.)",10000+ Employees,Company - Public,Manufacturing,Transportation Equipment Manufacturing,1886,Unknown / Non-Applicable,0,0,833972.0,Mercedes-Benz Research and Development India Private Limited,136,1,0,0,0,0
 Hellowork Technologies Pvt Ltd,Data Scientist,Mumbai,"ROLES AND RESPONSIBILITIES * Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions. * Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies. * Assess the effectiveness and accuracy of new data sources and data gathering techniques. * Develop custom data models and algorithms to apply to data sets. * Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting and other business outcomes. SKILLSET REQUIRED * Strong problem-solving skills with an emphasis on product development. * Experience using statistical computer languages (R, Python, SQL, etc.) to manipulate data and draw insights from large data sets. * Experience working with and creating data architectures. * Knowledge of statistical techniques and concepts is preferred (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications. * Excellent written and verbal communication skills for coordinating across teams. * A drive to learn and master new technologies and techniques. CANDIDATE MUST HAVE * R, Python, SQL * Data architectures.
 Job Type: Full-time
 Salary: ₹1,019,003.06 - ₹1,550,131.97 per year
@@ -2755,7 +2755,7 @@ Experience:
 Speak with the employer
 +91 8208108474
 Show Less
-Report","₹12,84,568 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,Hellowork Technologies Pvt Ltd,-1,1,0,0,0,1
+Report","₹12,84,568 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,1284568.0,Hellowork Technologies Pvt Ltd,-1,1,0,0,0,1
 vwex edutech pvt ltd,Artificial Intelligence and Machine Learning,Thrissur,"Training will be provided online for 3 months initially.
 Responsibilities: -
 Provide technical leadership and implementation for projects supporting our AI and machine learning goals
@@ -2778,7 +2778,7 @@ Salary: From ₹15,000.00 per month
 Speak with the employer
 +91 9526637373
 Show Less
-Report","₹15,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,vwex edutech pvt ltd,-1,1,0,0,0,0
+Report","₹15,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,15000.0,vwex edutech pvt ltd,-1,1,0,0,0,0
 Cloud tech Mind Solutions,Data science and ML Trainer,Chennai,"Python , EDA , Statistics Inferential Statistics ,Unsupervised Learning , Supervised Learning .
 Advanced:
 Boosting Boosting Algorithm Distribution and Parameter Calc Adaboost Lab Understanding Gradient Boosting Gradient Boosting Algorithm Gradient Boosting Consolidated XGBOOST - Theory Practices Lab Model Selection Choosing DTs and RandomForests End to End Modelling CART and CHAID
@@ -2794,7 +2794,7 @@ Chennai, Tamil Nadu: Reliably commute or planning to relocate before starting wo
 Experience:
 total work: 3 years (Preferred)
 Show Less
-Report","₹1,730.77 /hr (est.)",-1,-1,-1,-1,-1,-1,1,0,Cloud tech Mind Solutions,-1,1,0,0,0,0
+Report","₹1,730.77 /hr (est.)",-1,-1,-1,-1,-1,-1,1,0,1730.77,Cloud tech Mind Solutions,-1,1,0,0,0,0
 "Samsung Electro-Mechanics
 3.5",Machine Learning Engineer,Bangalore,"Job Responsibilities:
 ·Work with deep learning experts to design and implement networks optimized for GPU-accelerated inference
@@ -2841,7 +2841,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 9148758311
 Show Less
-Report","₹1,00,000 /mo (est.)",1001 to 5000 Employees,Subsidiary or Business Segment,Information Technology,Computer Hardware Development,1938,$10+ billion (USD),0,1,Samsung Electro-Mechanics,84,1,0,0,0,1
+Report","₹1,00,000 /mo (est.)",1001 to 5000 Employees,Subsidiary or Business Segment,Information Technology,Computer Hardware Development,1938,$10+ billion (USD),0,1,100000.0,Samsung Electro-Mechanics,84,1,0,0,0,1
 Neubaitics Tech Pvt Ltd,Ai/ML trainer,Salem,"We are seeking highly motivated and talented DataScience /AI/ML Trainer to Join our Team
 Responsibilities
 1. Conducting training sessions/lectures to students as per the teaching methodology of the institute in Data Science to students.
@@ -2874,7 +2874,7 @@ English (Preferred)
 Application Deadline: 22/12/2022
 Expected Start Date: 25/12/2022
 Show Less
-Report","₹32,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Neubaitics Tech Pvt Ltd,-1,1,0,0,0,1
+Report","₹32,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,32500.0,Neubaitics Tech Pvt Ltd,-1,1,0,0,0,1
 DeployAD.Inc,Machine Learning Engineer,Nilambūr,"Urgently Require Machine Learning Engineer.
 Requirements: -
 Graduate ( Preferably Science/ Computer Science/ Electronic and Engineering/ Information Technology)
@@ -2888,7 +2888,7 @@ Day shift
 Speak with the employer
 +91 8139074545
 Show Less
-Report","₹32,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,DeployAD.Inc,-1,0,0,0,0,0
+Report","₹32,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,32500.0,DeployAD.Inc,-1,0,0,0,0,0
 "Nestsoft technologies
 2.9",Python AI / ML (Online Trainer Part Time),Remote,"Online
 Experience: 1 Years To 5 Years Salary : 10000- 25000 (Month) Part Time
@@ -2897,7 +2897,7 @@ Qualification Required: Any Graduate
 Skills Required: Python, Machine Learning, Artificial Intelligence, Deep Learning, Data Science
 Details: Wanted part time online trainer for Python, Machine Learning, Artificial Intelligence, Deep Learning, Data Science. While you are working as developer you can also work as trainer with us. It will get more income to your skills and experience. We need expert developers as trainer.. Please do not call/whatsapp to any of our company mobile(s). Apply through our website or by email to hr@nestsoft.com
 Show Less
-Report","$17,500 /mo (est.)",51 to 200 Employees,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,Nestsoft technologies,-1,1,0,0,0,0
+Report","$17,500 /mo (est.)",51 to 200 Employees,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,17500.0,Nestsoft technologies,-1,1,0,0,0,0
 Innomatics Research Labs,Machine Learning and AI Trainer,Hyderābād,"Job description
 Experience
 Minimum 4+ Years of experience in machine learning & data analytics,AI.
@@ -2932,7 +2932,7 @@ total work: 1 year (Preferred)
 Speak with the employer
 +91 8008441993
 Show Less
-Report","₹12,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Innomatics Research Labs,-1,1,0,0,1,0
+Report","₹12,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,1200000.0,Innomatics Research Labs,-1,1,0,0,1,0
 "Mercedes-Benz Research and Development India Private Limited
 4.2",Computer Vision Research Engineer - Machine Learning,Bangalore,"Aufgaben
 Summary:
@@ -2967,7 +2967,7 @@ Experience working with synthetic and artificial data to solve real world proble
 
 Exposure to neural network libraries like Caffe, PyTorch, Theano or TensorFlow.
 Show Less
-Report","₹3,95,753 /yr (est.)",10000+ Employees,Company - Public,Manufacturing,Transportation Equipment Manufacturing,1886,Unknown / Non-Applicable,0,0,Mercedes-Benz Research and Development India Private Limited,136,1,0,0,0,0
+Report","₹3,95,753 /yr (est.)",10000+ Employees,Company - Public,Manufacturing,Transportation Equipment Manufacturing,1886,Unknown / Non-Applicable,0,0,395753.0,Mercedes-Benz Research and Development India Private Limited,136,1,0,0,0,0
 "Alphanet
 4.4",Machine Learning Engineer,Mohali,"Machine Learning Engineer / Automation
 WFH
@@ -2998,7 +2998,7 @@ Supplemental pay types:
 Joining bonus
 Performance bonus
 Show Less
-Report","₹22,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2001,$25 to $50 million (USD),0,0,Alphanet,21,1,0,0,1,0
+Report","₹22,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2001,$25 to $50 million (USD),0,0,2250000.0,Alphanet,21,1,0,0,1,0
 Nustar technologies,Machine Learning Engineer,India,"JOB LOCATION - BHUBANESHWAR
 EXPERIENCE - 4+ YEARS
 Good communication skills
@@ -3020,7 +3020,7 @@ Bhubaneshwar - 750001, Odisha: Reliably commute or planning to relocate before s
 Experience:
 total work: 4 years (Preferred)
 Show Less
-Report","₹9,68,126 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Nustar technologies,-1,1,0,0,0,0
+Report","₹9,68,126 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,968126.0,Nustar technologies,-1,1,0,0,0,0
 AgEye Technologies,Computer Vision Engineer,Bangalore,"Job: Computer Vision Engineer
 Position Type: Full-time – Permanent
 Location: Bangalore, Karnataka (IN)
@@ -3065,7 +3065,7 @@ Monday to Friday
 Speak with the employer
 +91 9113072108
 Show Less
-Report","₹9,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,AgEye Technologies,-1,1,0,0,1,1
+Report","₹9,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,950000.0,AgEye Technologies,-1,1,0,0,1,1
 "EY
 3.9",Manager - Business Consulting Risk - CS&A - Data Scientist - Mumbai,Mumbai,"Manager – Risk Advisory Services – Data Scientist
 
@@ -3138,7 +3138,7 @@ About EY
 
 As a global leader in assurance, tax, transaction and advisory services, we’re using the finance products, expertise and systems we’ve developed to build a better working world. That starts with a culture that believes in giving you the training, opportunities and creative freedom to make things better. Whenever you join, however long you stay, the exceptional EY experience lasts a lifetime. And with a commitment to hiring and developing the most passionate people, we’ll make our ambition to be the best employer by 2020 a reality.
 Show Less
-Report","₹6,87,533 /yr (est.)",Unknown,Unknown,-1,-1,-1,Unknown / Non-Applicable,0,0,EY,-1,1,0,1,1,1
+Report","₹6,87,533 /yr (est.)",Unknown,Unknown,-1,-1,-1,Unknown / Non-Applicable,0,0,687533.0,EY,-1,1,0,1,1,1
 "Plushvie
 4.0",AI/ML Engineer,India,"Skills
 Programming languages, preferably Python, R is necessary.
@@ -3173,7 +3173,7 @@ Experience:
 total work: 2 years (Preferred)
 Work Location: One location
 Show Less
-Report","₹42,500 /mo (est.)",1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable,0,1,Plushvie,-1,1,0,1,0,0
+Report","₹42,500 /mo (est.)",1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable,0,1,42500.0,Plushvie,-1,1,0,1,0,0
 INTEGRATED SERVICES,Machine Learning Engineer,Bangalore,"We are looking for Machine Learning Engineer (Remote ) for our reputed client , details as folows
 Prior Experience as Machine Learning Engineer or similar role
 Understanding of Data Modelling and Data Structures and software architecture
@@ -3191,7 +3191,7 @@ total work: 5 years (Required)
 Speak with the employer
 +91 9830895196
 Show Less
-Report","₹21,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,INTEGRATED SERVICES,-1,1,0,0,0,0
+Report","₹21,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,2100000.0,INTEGRATED SERVICES,-1,1,0,0,0,0
 "LTIMindtree
 3.8",Data Scientist- Computer Vision,Chennai,"Job Title-
 Computer Vision Engineering Graduate or Postgraduate in Computer Science or Related field with Advanced Knowledge in Computer Vision and Deep Learning
@@ -3199,7 +3199,7 @@ Advanced Computer Vision , Image Processing and Image segmentation, Feature extr
 Working Knowledge in TensorFlow, TensorFlow Lite, OpenVINO, Keras, YOLO V4, YOLO V5, Caffe, Open CV. Knowledge in Architecting algorithms considering hardware system and Cloud eg.Azure or any other equivalent Cloud system
 Product Engineering Background is preferred.
 Show Less
-Report","₹6,76,980 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,1997,Unknown / Non-Applicable,0,0,LTIMindtree,25,0,0,0,0,0
+Report","₹6,76,980 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,1997,Unknown / Non-Applicable,0,0,676980.0,LTIMindtree,25,0,0,0,0,0
 "EY
 3.9",Manager - Business Consulting Risk - CS&A - Data Scientist - Mumbai,Mumbai,"Manager – Risk Advisory Services – Data Scientist
 
@@ -3272,7 +3272,7 @@ About EY
 
 As a global leader in assurance, tax, transaction and advisory services, we’re using the finance products, expertise and systems we’ve developed to build a better working world. That starts with a culture that believes in giving you the training, opportunities and creative freedom to make things better. Whenever you join, however long you stay, the exceptional EY experience lasts a lifetime. And with a commitment to hiring and developing the most passionate people, we’ll make our ambition to be the best employer by 2020 a reality.
 Show Less
-Report","₹6,87,533 /yr (est.)",Unknown,Unknown,-1,-1,-1,Unknown / Non-Applicable,0,0,EY,-1,1,0,1,1,1
+Report","₹6,87,533 /yr (est.)",Unknown,Unknown,-1,-1,-1,Unknown / Non-Applicable,0,0,687533.0,EY,-1,1,0,1,1,1
 UniConverge Technologies Pvt. Ltd.,Machine Learning/ Data Science Trainer,Noida,"Job Summary
 Give training on Data Science, Machine Learning and AI
 Responsibilities and Duties
@@ -3294,7 +3294,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 7829246239
 Show Less
-Report","₹67,897 /mo (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,UniConverge Technologies Pvt. Ltd.,-1,1,0,0,0,0
+Report","₹67,897 /mo (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,67897.0,UniConverge Technologies Pvt. Ltd.,-1,1,0,0,0,0
 "Nestsoft technologies
 2.9",Python AI / ML (Online Trainer Part Time),Remote,"Online
 Experience: 1 Years To 5 Years Salary : 10000- 25000 (Month) Part Time
@@ -3303,7 +3303,7 @@ Qualification Required: Any Graduate
 Skills Required: Python, Machine Learning, Artificial Intelligence, Deep Learning, Data Science
 Details: Wanted part time online trainer for Python, Machine Learning, Artificial Intelligence, Deep Learning, Data Science. While you are working as developer you can also work as trainer with us. It will get more income to your skills and experience. We need expert developers as trainer.. Please do not call/whatsapp to any of our company mobile(s). Apply through our website or by email to hr@nestsoft.com
 Show Less
-Report","$17,500 /mo (est.)",51 to 200 Employees,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,Nestsoft technologies,-1,1,0,0,0,0
+Report","$17,500 /mo (est.)",51 to 200 Employees,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,17500.0,Nestsoft technologies,-1,1,0,0,0,0
 Hire Me Technology Limited,Computer Vision / Machine Learning Engineer (Remote),New Delhi,"We are looking for excellent Computer Vision engineers who can take initiatives, design, and develop advanced machine learning solutions, and deploy them directly to the given platform. A talented machine learning engineer with expertise in computer vision and can apply different kinds of machine learning models to a diverse range of exciting and impactful client projects especially human detection, face tracking and augmented reality with human face, and augmented reality in Indoor/Outdoor environment. To be successful in this role, you need a strong machine learning experience with Computer Vision background, experience in deploying models to the cloud such as AWS, solid software development skills and docker, a love of learning, and to collaborate well in multi-disciplinary teams.
 A successful candidate will take pride in working with engineers, product managers and business partners to identity and solve the most challenging safety and integrity problems in the internet scale. Candidate will conduct research on deep learning for application processors and multimedia processors with applications such as computer vision, or image and video processing. Candidate will work as part of a team on the system design, implementation, and verification of algorithms for application processors and multimedia processors. As a member of the team, you will develop innovative and sophisticated solutions to some of the most complex strategic business challenges. You will need to exhibit strong communication and leadership skills, an ability to set priorities, and an execution focus in a dynamic environment.
 ⃟Lead to build the trust and safety machine learning production models.
@@ -3331,7 +3331,7 @@ Morning shift
 Experience:
 Computer vision: 2 years (Preferred)
 Show Less
-Report","₹4,09,878 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,Hire Me Technology Limited,-1,1,0,0,1,1
+Report","₹4,09,878 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,409878.0,Hire Me Technology Limited,-1,1,0,0,1,1
 Innomatics Research Labs,Machine Learning and AI Trainer,Hyderābād,"Job description
 Experience
 Minimum 4+ Years of experience in machine learning & data analytics,AI.
@@ -3366,7 +3366,7 @@ total work: 1 year (Preferred)
 Speak with the employer
 +91 8008441993
 Show Less
-Report","₹12,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Innomatics Research Labs,-1,1,0,0,1,0
+Report","₹12,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,1200000.0,Innomatics Research Labs,-1,1,0,0,1,0
 "Larsen & Toubro Limited
 3.5",Computer Vision/Artificial Intelligence,Chennai,"Smart World And CommunicationChennai Head Qrs.
 Required Experience
@@ -3412,7 +3412,7 @@ Solid understanding of state-of-the-art capabilities and design of sensing and c
 Strong working knowledge in networking and other data-centre technologies
 Strong problem solving and logical skills & A Go-getter kind of attitude
 Show Less
-Report","₹3,65,335 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,2014,$500 million to $1 billion (USD),0,0,Larsen & Toubro Limited,8,1,0,0,1,0
+Report","₹3,65,335 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,2014,$500 million to $1 billion (USD),0,0,365335.0,Larsen & Toubro Limited,8,1,0,0,1,0
 Brimming Grace Capital Pvt Ltd,Deep Learning Intern,Gurgaon,"Please Read Job Description properly.
 Candidates are also required to fill this form.
 https://forms.gle/hXuMDQHEyENAhqHC7
@@ -3460,7 +3460,7 @@ Computer vision: 1 year (Preferred)
 Python: 1 year (Preferred)
 Django: 1 year (Preferred)
 Show Less
-Report","₹52,276 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Brimming Grace Capital Pvt Ltd,-1,1,0,1,0,1
+Report","₹52,276 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,52276.0,Brimming Grace Capital Pvt Ltd,-1,1,0,1,0,1
 Neubaitics Tech Pvt Ltd,Ai/ML trainer,Salem,"We are seeking highly motivated and talented DataScience /AI/ML Trainer to Join our Team
 Responsibilities
 1. Conducting training sessions/lectures to students as per the teaching methodology of the institute in Data Science to students.
@@ -3493,7 +3493,7 @@ English (Preferred)
 Application Deadline: 22/12/2022
 Expected Start Date: 25/12/2022
 Show Less
-Report","₹32,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Neubaitics Tech Pvt Ltd,-1,1,0,0,0,1
+Report","₹32,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,32500.0,Neubaitics Tech Pvt Ltd,-1,1,0,0,0,1
 "Samsung Electro-Mechanics
 3.5",Machine Learning Engineer,Bangalore,"Job Responsibilities:
 ·Work with deep learning experts to design and implement networks optimized for GPU-accelerated inference
@@ -3540,7 +3540,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 9148758311
 Show Less
-Report","₹1,00,000 /mo (est.)",1001 to 5000 Employees,Subsidiary or Business Segment,Information Technology,Computer Hardware Development,1938,$10+ billion (USD),0,1,Samsung Electro-Mechanics,84,1,0,0,0,1
+Report","₹1,00,000 /mo (est.)",1001 to 5000 Employees,Subsidiary or Business Segment,Information Technology,Computer Hardware Development,1938,$10+ billion (USD),0,1,100000.0,Samsung Electro-Mechanics,84,1,0,0,0,1
 Cloud tech Mind Solutions,Data science and ML Trainer,Chennai,"Python , EDA , Statistics Inferential Statistics ,Unsupervised Learning , Supervised Learning .
 Advanced:
 Boosting Boosting Algorithm Distribution and Parameter Calc Adaboost Lab Understanding Gradient Boosting Gradient Boosting Algorithm Gradient Boosting Consolidated XGBOOST - Theory Practices Lab Model Selection Choosing DTs and RandomForests End to End Modelling CART and CHAID
@@ -3556,7 +3556,7 @@ Chennai, Tamil Nadu: Reliably commute or planning to relocate before starting wo
 Experience:
 total work: 3 years (Preferred)
 Show Less
-Report","₹1,730.77 /hr (est.)",-1,-1,-1,-1,-1,-1,1,0,Cloud tech Mind Solutions,-1,1,0,0,0,0
+Report","₹1,730.77 /hr (est.)",-1,-1,-1,-1,-1,-1,1,0,1730.77,Cloud tech Mind Solutions,-1,1,0,0,0,0
 AgEye Technologies,Computer Vision Engineer,Bangalore,"Job: Computer Vision Engineer
 Position Type: Full-time – Permanent
 Location: Bangalore, Karnataka (IN)
@@ -3601,7 +3601,7 @@ Monday to Friday
 Speak with the employer
 +91 9113072108
 Show Less
-Report","₹9,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,AgEye Technologies,-1,1,0,0,1,1
+Report","₹9,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,950000.0,AgEye Technologies,-1,1,0,0,1,1
 Nustar technologies,Machine Learning Engineer,India,"JOB LOCATION - BHUBANESHWAR
 EXPERIENCE - 4+ YEARS
 Good communication skills
@@ -3623,7 +3623,7 @@ Bhubaneshwar - 750001, Odisha: Reliably commute or planning to relocate before s
 Experience:
 total work: 4 years (Preferred)
 Show Less
-Report","₹9,68,126 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Nustar technologies,-1,1,0,0,0,0
+Report","₹9,68,126 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,968126.0,Nustar technologies,-1,1,0,0,0,0
 Evolve robot Lab,Artificial Intelligence Internship,India,"About Company: Evolve Robot Lab is the India's first robot innovation lab for Robotics Engineering & Artificial Intelligence Solution.
 Robotics research company"", with the grand vision to improve the quality of life in the very part of India with various deep tech solutions.
 Who we are: Robotics start-up with young creative team based out of Madras, Tamilnadu We are making affordable robotics product for both industrial & military application.
@@ -3663,7 +3663,7 @@ Performance bonus
 Education:
 Bachelor's (Preferred)
 Show Less
-Report","₹12,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Evolve robot Lab,-1,0,0,0,0,0
+Report","₹12,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,12000.0,Evolve robot Lab,-1,0,0,0,0,0
 "Alphanet
 4.4",Machine Learning Engineer,Mohali,"Machine Learning Engineer / Automation
 WFH
@@ -3694,7 +3694,7 @@ Supplemental pay types:
 Joining bonus
 Performance bonus
 Show Less
-Report","₹22,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2001,$25 to $50 million (USD),0,0,Alphanet,21,1,0,0,1,0
+Report","₹22,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2001,$25 to $50 million (USD),0,0,2250000.0,Alphanet,21,1,0,0,1,0
 L&D Edutech,Data Science with Python and Machine learning trainer,Mumbai,"need to take Data science, python, machine learning at our dadar west centre
 Job Types: Full-time, Part-time
 Pay: ₹25,000.00 - ₹30,000.00 per month
@@ -3710,7 +3710,7 @@ English (Preferred)
 Speak with the employer
 +91 7208769880
 Show Less
-Report","₹27,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,L&D Edutech,-1,1,0,0,0,0
+Report","₹27,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,27500.0,L&D Edutech,-1,1,0,0,0,0
 DeployAD.Inc,Machine Learning Engineer,Nilambūr,"Urgently Require Machine Learning Engineer.
 Requirements: -
 Graduate ( Preferably Science/ Computer Science/ Electronic and Engineering/ Information Technology)
@@ -3724,7 +3724,7 @@ Day shift
 Speak with the employer
 +91 8139074545
 Show Less
-Report","₹32,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,DeployAD.Inc,-1,0,0,0,0,0
+Report","₹32,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,32500.0,DeployAD.Inc,-1,0,0,0,0,0
 TIS,Trainer: Artificial Intelligence & Machine Learning,Eranakulam,"We are hiring experienced and energetic candidates to the post of trainer to Artificial Intelligence & Machine Learning. Those who have immense industrial experience and practical knowledge can apply for the post.
 Location: Ernakulam
 Key skills: Python, R, Data Science, Machine Learning, Deep Learning, NLP and other core competencies of Artificial Intelligence
@@ -3738,7 +3738,7 @@ Weekend availability
 Speak with the employer
 +91 9072222290
 Show Less
-Report","₹20,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,TIS,-1,1,0,0,0,0
+Report","₹20,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,20000.0,TIS,-1,1,0,0,0,0
 vwex edutech pvt ltd,Artificial Intelligence and Machine Learning,Thrissur,"Training will be provided online for 3 months initially.
 Responsibilities: -
 Provide technical leadership and implementation for projects supporting our AI and machine learning goals
@@ -3761,7 +3761,7 @@ Salary: From ₹15,000.00 per month
 Speak with the employer
 +91 9526637373
 Show Less
-Report","₹15,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,vwex edutech pvt ltd,-1,1,0,0,0,0
+Report","₹15,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,15000.0,vwex edutech pvt ltd,-1,1,0,0,0,0
 Hellowork Technologies Pvt Ltd,Data Scientist,Mumbai,"ROLES AND RESPONSIBILITIES * Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions. * Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies. * Assess the effectiveness and accuracy of new data sources and data gathering techniques. * Develop custom data models and algorithms to apply to data sets. * Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting and other business outcomes. SKILLSET REQUIRED * Strong problem-solving skills with an emphasis on product development. * Experience using statistical computer languages (R, Python, SQL, etc.) to manipulate data and draw insights from large data sets. * Experience working with and creating data architectures. * Knowledge of statistical techniques and concepts is preferred (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications. * Excellent written and verbal communication skills for coordinating across teams. * A drive to learn and master new technologies and techniques. CANDIDATE MUST HAVE * R, Python, SQL * Data architectures.
 Job Type: Full-time
 Salary: ₹1,019,003.06 - ₹1,550,131.97 per year
@@ -3776,7 +3776,7 @@ Experience:
 Speak with the employer
 +91 8208108474
 Show Less
-Report","₹12,84,568 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,Hellowork Technologies Pvt Ltd,-1,1,0,0,0,1
+Report","₹12,84,568 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,1284568.0,Hellowork Technologies Pvt Ltd,-1,1,0,0,0,1
 Ekeeda Pvt. Ltd,Freelancer Data science trainer,New Delhi,"Prior experience as a trainer or a similar position.
 Excellent interpersonal and communication skills.
 Ability to identify gaps in skills.
@@ -3794,7 +3794,7 @@ Speak with the employer
 Application Deadline: 13/10/2022
 Expected Start Date: 12/10/2022
 Show Less
-Report","₹1,153.85 /hr (est.)",-1,-1,-1,-1,-1,-1,1,0,Ekeeda Pvt. Ltd,-1,0,0,0,0,1
+Report","₹1,153.85 /hr (est.)",-1,-1,-1,-1,-1,-1,1,0,1153.85,Ekeeda Pvt. Ltd,-1,0,0,0,0,1
 Success Arrow,Freelance Data Scientist Trainer,Pune,"Interest in teaching with ability to explain complex things in simple language
 - Minimum 2-3 years experience in data science
 - Extensive experience in applied work with Excel/Google Sheets, Python, Tableau, SQL,
@@ -3832,7 +3832,7 @@ total work: 2 years (Required)
 Speak with the employer
 +91 9111111111
 Show Less
-Report","₹6,04,332 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Success Arrow,-1,1,0,0,0,1
+Report","₹6,04,332 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,604332.0,Success Arrow,-1,1,0,0,0,1
 "PepsiCo
 4.0",R&D Specification Data & System Administration (SDSA) Assistant Scientist,Hyderābād,"Overview:
 The Specification Data & System Administration (SDSA) Assistant Scientist’s role will be primarily focused on the administration of data input into the Specification System (on SAP PLM), optimizing Business Process, delivering Training on SAP PLM and/or supporting Product Developers with SAP PLM troubleshooting.
@@ -3890,7 +3890,7 @@ Working knowledge of Azure DevOps
 Working knowledge of Agile SAFe Methodology
 Apply Now: click Apply Now
 Show Less
-Report","₹6,20,241 /yr (est.)",10000+ Employees,Company - Public,Manufacturing,Food & Beverage Manufacturing,1965,$10+ billion (USD),0,0,PepsiCo,57,0,0,0,0,1
+Report","₹6,20,241 /yr (est.)",10000+ Employees,Company - Public,Manufacturing,Food & Beverage Manufacturing,1965,$10+ billion (USD),0,0,620241.0,PepsiCo,57,0,0,0,0,1
 Brimming Grace Capital Pvt Ltd,Deep Learning Intern,Gurgaon,"Please Read Job Description properly.
 Candidates are also required to fill this form.
 https://forms.gle/hXuMDQHEyENAhqHC7
@@ -3938,7 +3938,7 @@ Computer vision: 1 year (Preferred)
 Python: 1 year (Preferred)
 Django: 1 year (Preferred)
 Show Less
-Report","₹52,276 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Brimming Grace Capital Pvt Ltd,-1,1,0,1,0,1
+Report","₹52,276 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,52276.0,Brimming Grace Capital Pvt Ltd,-1,1,0,1,0,1
 "Nestsoft technologies
 2.9",Python AI / ML (Online Trainer Part Time),Remote,"Online
 Experience: 1 Years To 5 Years Salary : 10000- 25000 (Month) Part Time
@@ -3947,7 +3947,7 @@ Qualification Required: Any Graduate
 Skills Required: Python, Machine Learning, Artificial Intelligence, Deep Learning, Data Science
 Details: Wanted part time online trainer for Python, Machine Learning, Artificial Intelligence, Deep Learning, Data Science. While you are working as developer you can also work as trainer with us. It will get more income to your skills and experience. We need expert developers as trainer.. Please do not call/whatsapp to any of our company mobile(s). Apply through our website or by email to hr@nestsoft.com
 Show Less
-Report","$17,500 /mo (est.)",51 to 200 Employees,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,Nestsoft technologies,-1,1,0,0,0,0
+Report","$17,500 /mo (est.)",51 to 200 Employees,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,17500.0,Nestsoft technologies,-1,1,0,0,0,0
 Hire Me Technology Limited,Computer Vision / Machine Learning Engineer (Remote),New Delhi,"We are looking for excellent Computer Vision engineers who can take initiatives, design, and develop advanced machine learning solutions, and deploy them directly to the given platform. A talented machine learning engineer with expertise in computer vision and can apply different kinds of machine learning models to a diverse range of exciting and impactful client projects especially human detection, face tracking and augmented reality with human face, and augmented reality in Indoor/Outdoor environment. To be successful in this role, you need a strong machine learning experience with Computer Vision background, experience in deploying models to the cloud such as AWS, solid software development skills and docker, a love of learning, and to collaborate well in multi-disciplinary teams.
 A successful candidate will take pride in working with engineers, product managers and business partners to identity and solve the most challenging safety and integrity problems in the internet scale. Candidate will conduct research on deep learning for application processors and multimedia processors with applications such as computer vision, or image and video processing. Candidate will work as part of a team on the system design, implementation, and verification of algorithms for application processors and multimedia processors. As a member of the team, you will develop innovative and sophisticated solutions to some of the most complex strategic business challenges. You will need to exhibit strong communication and leadership skills, an ability to set priorities, and an execution focus in a dynamic environment.
 ⃟Lead to build the trust and safety machine learning production models.
@@ -3975,7 +3975,7 @@ Morning shift
 Experience:
 Computer vision: 2 years (Preferred)
 Show Less
-Report","₹4,09,878 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,Hire Me Technology Limited,-1,1,0,0,1,1
+Report","₹4,09,878 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,409878.0,Hire Me Technology Limited,-1,1,0,0,1,1
 "Larsen & Toubro Limited
 3.5",Computer Vision/Artificial Intelligence,Chennai,"Smart World And CommunicationChennai Head Qrs.
 Required Experience
@@ -4021,7 +4021,7 @@ Solid understanding of state-of-the-art capabilities and design of sensing and c
 Strong working knowledge in networking and other data-centre technologies
 Strong problem solving and logical skills & A Go-getter kind of attitude
 Show Less
-Report","₹3,65,335 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,2014,$500 million to $1 billion (USD),0,0,Larsen & Toubro Limited,8,1,0,0,1,0
+Report","₹3,65,335 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,2014,$500 million to $1 billion (USD),0,0,365335.0,Larsen & Toubro Limited,8,1,0,0,1,0
 Innomatics Research Labs,Machine Learning and AI Trainer,Hyderābād,"Job description
 Experience
 Minimum 4+ Years of experience in machine learning & data analytics,AI.
@@ -4056,7 +4056,7 @@ total work: 1 year (Preferred)
 Speak with the employer
 +91 8008441993
 Show Less
-Report","₹12,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Innomatics Research Labs,-1,1,0,0,1,0
+Report","₹12,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,1200000.0,Innomatics Research Labs,-1,1,0,0,1,0
 Success Arrow,Freelance Data Scientist Trainer,Pune,"Interest in teaching with ability to explain complex things in simple language
 - Minimum 2-3 years experience in data science
 - Extensive experience in applied work with Excel/Google Sheets, Python, Tableau, SQL,
@@ -4094,7 +4094,7 @@ total work: 2 years (Required)
 Speak with the employer
 +91 9111111111
 Show Less
-Report","₹6,04,332 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Success Arrow,-1,1,0,0,0,1
+Report","₹6,04,332 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,604332.0,Success Arrow,-1,1,0,0,0,1
 Hellowork Technologies Pvt Ltd,Data Scientist,Mumbai,"ROLES AND RESPONSIBILITIES * Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions. * Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies. * Assess the effectiveness and accuracy of new data sources and data gathering techniques. * Develop custom data models and algorithms to apply to data sets. * Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting and other business outcomes. SKILLSET REQUIRED * Strong problem-solving skills with an emphasis on product development. * Experience using statistical computer languages (R, Python, SQL, etc.) to manipulate data and draw insights from large data sets. * Experience working with and creating data architectures. * Knowledge of statistical techniques and concepts is preferred (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications. * Excellent written and verbal communication skills for coordinating across teams. * A drive to learn and master new technologies and techniques. CANDIDATE MUST HAVE * R, Python, SQL * Data architectures.
 Job Type: Full-time
 Salary: ₹1,019,003.06 - ₹1,550,131.97 per year
@@ -4109,7 +4109,7 @@ Experience:
 Speak with the employer
 +91 8208108474
 Show Less
-Report","₹12,84,568 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,Hellowork Technologies Pvt Ltd,-1,1,0,0,0,1
+Report","₹12,84,568 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,1284568.0,Hellowork Technologies Pvt Ltd,-1,1,0,0,0,1
 Nustar technologies,Machine Learning Engineer,India,"JOB LOCATION - BHUBANESHWAR
 EXPERIENCE - 4+ YEARS
 Good communication skills
@@ -4131,7 +4131,7 @@ Bhubaneshwar - 750001, Odisha: Reliably commute or planning to relocate before s
 Experience:
 total work: 4 years (Preferred)
 Show Less
-Report","₹9,68,126 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Nustar technologies,-1,1,0,0,0,0
+Report","₹9,68,126 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,968126.0,Nustar technologies,-1,1,0,0,0,0
 Ekeeda Pvt. Ltd,Freelancer Data science trainer,New Delhi,"Prior experience as a trainer or a similar position.
 Excellent interpersonal and communication skills.
 Ability to identify gaps in skills.
@@ -4149,7 +4149,7 @@ Speak with the employer
 Application Deadline: 13/10/2022
 Expected Start Date: 12/10/2022
 Show Less
-Report","₹1,153.85 /hr (est.)",-1,-1,-1,-1,-1,-1,1,0,Ekeeda Pvt. Ltd,-1,0,0,0,0,1
+Report","₹1,153.85 /hr (est.)",-1,-1,-1,-1,-1,-1,1,0,1153.85,Ekeeda Pvt. Ltd,-1,0,0,0,0,1
 DeployAD.Inc,Machine Learning Engineer,Nilambūr,"Urgently Require Machine Learning Engineer.
 Requirements: -
 Graduate ( Preferably Science/ Computer Science/ Electronic and Engineering/ Information Technology)
@@ -4163,7 +4163,7 @@ Day shift
 Speak with the employer
 +91 8139074545
 Show Less
-Report","₹32,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,DeployAD.Inc,-1,0,0,0,0,0
+Report","₹32,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,32500.0,DeployAD.Inc,-1,0,0,0,0,0
 Cloud tech Mind Solutions,Data science and ML Trainer,Chennai,"Python , EDA , Statistics Inferential Statistics ,Unsupervised Learning , Supervised Learning .
 Advanced:
 Boosting Boosting Algorithm Distribution and Parameter Calc Adaboost Lab Understanding Gradient Boosting Gradient Boosting Algorithm Gradient Boosting Consolidated XGBOOST - Theory Practices Lab Model Selection Choosing DTs and RandomForests End to End Modelling CART and CHAID
@@ -4179,7 +4179,7 @@ Chennai, Tamil Nadu: Reliably commute or planning to relocate before starting wo
 Experience:
 total work: 3 years (Preferred)
 Show Less
-Report","₹1,730.77 /hr (est.)",-1,-1,-1,-1,-1,-1,1,0,Cloud tech Mind Solutions,-1,1,0,0,0,0
+Report","₹1,730.77 /hr (est.)",-1,-1,-1,-1,-1,-1,1,0,1730.77,Cloud tech Mind Solutions,-1,1,0,0,0,0
 AgEye Technologies,Computer Vision Engineer,Bangalore,"Job: Computer Vision Engineer
 Position Type: Full-time – Permanent
 Location: Bangalore, Karnataka (IN)
@@ -4224,7 +4224,7 @@ Monday to Friday
 Speak with the employer
 +91 9113072108
 Show Less
-Report","₹9,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,AgEye Technologies,-1,1,0,0,1,1
+Report","₹9,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,950000.0,AgEye Technologies,-1,1,0,0,1,1
 L&D Edutech,Data Science with Python and Machine learning trainer,Mumbai,"need to take Data science, python, machine learning at our dadar west centre
 Job Types: Full-time, Part-time
 Pay: ₹25,000.00 - ₹30,000.00 per month
@@ -4240,7 +4240,7 @@ English (Preferred)
 Speak with the employer
 +91 7208769880
 Show Less
-Report","₹27,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,L&D Edutech,-1,1,0,0,0,0
+Report","₹27,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,27500.0,L&D Edutech,-1,1,0,0,0,0
 "Alphanet
 4.4",Machine Learning Engineer,Mohali,"Machine Learning Engineer / Automation
 WFH
@@ -4271,7 +4271,7 @@ Supplemental pay types:
 Joining bonus
 Performance bonus
 Show Less
-Report","₹22,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2001,$25 to $50 million (USD),0,0,Alphanet,21,1,0,0,1,0
+Report","₹22,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2001,$25 to $50 million (USD),0,0,2250000.0,Alphanet,21,1,0,0,1,0
 Neubaitics Tech Pvt Ltd,Ai/ML trainer,Salem,"We are seeking highly motivated and talented DataScience /AI/ML Trainer to Join our Team
 Responsibilities
 1. Conducting training sessions/lectures to students as per the teaching methodology of the institute in Data Science to students.
@@ -4304,7 +4304,7 @@ English (Preferred)
 Application Deadline: 22/12/2022
 Expected Start Date: 25/12/2022
 Show Less
-Report","₹32,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Neubaitics Tech Pvt Ltd,-1,1,0,0,0,1
+Report","₹32,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,32500.0,Neubaitics Tech Pvt Ltd,-1,1,0,0,0,1
 "Wipro Limited
 3.8",Machine Learning-Consultant,Bangalore,"Overview:
 Key skills required for the job are: n Machine Learning-L1, (Mandatory) and Apache Spark-L1, (Optional).As a Consultant, you should have in-depth knowledge in any one technological or industry practice / functional area and overview of 2-3 other areas. You should handle solution definition/ fitment for a small sized project with a medium complexity. You should be able to build a custom Function Module with medium complexity program logic. Minimum work experience: 5 - 8 YEARS
@@ -4313,7 +4313,7 @@ Roles & Responsibilities:
 ""As a Consultant, you should have in-depth knowledge in any one technological or industry practice / functional area and overview of 2-3 other areas. You should handle solution definition/ fitment for a small sized project with a medium complexity. You should be able to build a custom Function Module with medium complexity program logic.""
 Start your job application: click Apply Now
 Show Less
-Report","₹5,61,655 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,1945,$5 to $10 billion (USD),0,0,Wipro Limited,77,0,0,1,0,0
+Report","₹5,61,655 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,1945,$5 to $10 billion (USD),0,0,561655.0,Wipro Limited,77,0,0,1,0,0
 TIS,Trainer: Artificial Intelligence & Machine Learning,Eranakulam,"We are hiring experienced and energetic candidates to the post of trainer to Artificial Intelligence & Machine Learning. Those who have immense industrial experience and practical knowledge can apply for the post.
 Location: Ernakulam
 Key skills: Python, R, Data Science, Machine Learning, Deep Learning, NLP and other core competencies of Artificial Intelligence
@@ -4327,7 +4327,7 @@ Weekend availability
 Speak with the employer
 +91 9072222290
 Show Less
-Report","₹20,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,TIS,-1,1,0,0,0,0
+Report","₹20,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,20000.0,TIS,-1,1,0,0,0,0
 vwex edutech pvt ltd,Artificial Intelligence and Machine Learning,Thrissur,"Training will be provided online for 3 months initially.
 Responsibilities: -
 Provide technical leadership and implementation for projects supporting our AI and machine learning goals
@@ -4350,7 +4350,7 @@ Salary: From ₹15,000.00 per month
 Speak with the employer
 +91 9526637373
 Show Less
-Report","₹15,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,vwex edutech pvt ltd,-1,1,0,0,0,0
+Report","₹15,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,15000.0,vwex edutech pvt ltd,-1,1,0,0,0,0
 Flipped.ai,Senior Data Scientist (Pharma Background),Bangalore,"Sr. Data Scientist (Pharma background)
 The ideal candidate's favorite words are learning, data, scale, and agility. You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers. You are a data pro with deep statistical knowledge and analytical aptitude. You know how to make sense of massive amounts of data and gather deep insights. You will use statistics, data mining, machine learning, and deep learning techniques to deliver data-driven insights for clients. You are a thought leader with a commercial acumen, always on top of AI and ML trends.
 Responsibilities:
@@ -4390,7 +4390,7 @@ Machine learning applications: 2 years (Required)
 Deep Learning applications: 1 year (Required)
 Pharma Industry: 2 years (Required)
 Show Less
-Report","₹25,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Flipped.ai,-1,1,0,1,1,0
+Report","₹25,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,2500000.0,Flipped.ai,-1,1,0,1,1,0
 "PepsiCo
 4.0",R&D Specification Data & System Administration (SDSA) Assistant Scientist,Hyderābād,"Overview:
 The Specification Data & System Administration (SDSA) Assistant Scientist’s role will be primarily focused on the administration of data input into the Specification System (on SAP PLM), optimizing Business Process, delivering Training on SAP PLM and/or supporting Product Developers with SAP PLM troubleshooting.
@@ -4448,7 +4448,7 @@ Working knowledge of Azure DevOps
 Working knowledge of Agile SAFe Methodology
 Apply Now: click Apply Now
 Show Less
-Report","₹6,20,241 /yr (est.)",10000+ Employees,Company - Public,Manufacturing,Food & Beverage Manufacturing,1965,$10+ billion (USD),0,0,PepsiCo,57,0,0,0,0,1
+Report","₹6,20,241 /yr (est.)",10000+ Employees,Company - Public,Manufacturing,Food & Beverage Manufacturing,1965,$10+ billion (USD),0,0,620241.0,PepsiCo,57,0,0,0,0,1
 Eunimart Omnichannel Private Limited,Machine Learning Engineer,Hyderābād,"Responsibilities
 Design the data pipelines and engineering infrastructure to support our platform’s enterprise machine learning systems at scale
 Take offline models data scientists build and turn them into a real machine learning production system
@@ -4488,7 +4488,7 @@ Madhapur, Hyderabad - 500081, Telangana: Reliably commute or planning to relocat
 Experience:
 total work: 1 year (Preferred)
 Show Less
-Report","₹7,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Eunimart Omnichannel Private Limited,-1,1,0,0,0,0
+Report","₹7,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,700000.0,Eunimart Omnichannel Private Limited,-1,1,0,0,0,0
 "OptiSol Business Solutions Pvt Ltd
 4.5",Machine Learning Engineer,Coimbatore,"Experience: 3 to 5 years
 Salary Range: 8 to 15LPA
@@ -4534,7 +4534,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 9940775556
 Show Less
-Report","₹11,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2007,$5 to $25 million (USD),0,0,OptiSol Business Solutions Pvt Ltd,15,1,0,0,1,0
+Report","₹11,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2007,$5 to $25 million (USD),0,0,1150000.0,OptiSol Business Solutions Pvt Ltd,15,1,0,0,1,0
 UniConverge Technologies Pvt. Ltd.,Machine Learning/ Data Science Trainer,Noida,"Job Summary
 Give training on Data Science, Machine Learning and AI
 Responsibilities and Duties
@@ -4556,7 +4556,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 7829246239
 Show Less
-Report","₹67,897 /mo (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,UniConverge Technologies Pvt. Ltd.,-1,1,0,0,0,0
+Report","₹67,897 /mo (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,67897.0,UniConverge Technologies Pvt. Ltd.,-1,1,0,0,0,0
 LeadIndia Manpower Services,"Fresher Data Analyst , Data Science , SQL , Python",Hassan,"Key skills :
 
 Advanced Excel, word, PDF skills
@@ -4620,7 +4620,7 @@ Mobile
 Email ID
 hrashish@leadindia.info
 Show Less
-Report","₹4,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,LeadIndia Manpower Services,-1,1,0,0,0,1
+Report","₹4,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,450000.0,LeadIndia Manpower Services,-1,1,0,0,0,1
 Brimming Grace Capital Pvt Ltd,Deep Learning Intern,Gurgaon,"Please Read Job Description properly.
 Candidates are also required to fill this form.
 https://forms.gle/hXuMDQHEyENAhqHC7
@@ -4668,7 +4668,7 @@ Computer vision: 1 year (Preferred)
 Python: 1 year (Preferred)
 Django: 1 year (Preferred)
 Show Less
-Report","₹52,276 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Brimming Grace Capital Pvt Ltd,-1,1,0,1,0,1
+Report","₹52,276 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,52276.0,Brimming Grace Capital Pvt Ltd,-1,1,0,1,0,1
 "Eve World Platform
 4.5",Python Machine Learning Engineer,Remote,"ABOUT EVE WORLD
 Eve World is a deep tech social media, community & e-commerce mobile super app; web3, DAO, Blockchain based, bridging the gap in providing freedom in the virtual world through relatable multi-format, entertaining content, creator and community tools.
@@ -4699,7 +4699,7 @@ Schedule:
 Day shift
 Monday to Friday
 Show Less
-Report","$2,10,000 /mo (est.)",51 to 200 Employees,Company - Private,Information Technology,Software Development,2021,Unknown / Non-Applicable,0,1,Eve World Platform,1,1,0,0,0,0
+Report","$2,10,000 /mo (est.)",51 to 200 Employees,Company - Private,Information Technology,Software Development,2021,Unknown / Non-Applicable,0,1,210000.0,Eve World Platform,1,1,0,0,0,0
 "EY
 3.9",Manager - Business Consulting Risk - CS&A - Data Scientist - Mumbai,Mumbai,"Manager – Risk Advisory Services – Data Scientist
 
@@ -4772,7 +4772,7 @@ About EY
 
 As a global leader in assurance, tax, transaction and advisory services, we’re using the finance products, expertise and systems we’ve developed to build a better working world. That starts with a culture that believes in giving you the training, opportunities and creative freedom to make things better. Whenever you join, however long you stay, the exceptional EY experience lasts a lifetime. And with a commitment to hiring and developing the most passionate people, we’ll make our ambition to be the best employer by 2020 a reality.
 Show Less
-Report","₹6,87,533 /yr (est.)",Unknown,Unknown,-1,-1,-1,Unknown / Non-Applicable,0,0,EY,-1,1,0,1,1,1
+Report","₹6,87,533 /yr (est.)",Unknown,Unknown,-1,-1,-1,Unknown / Non-Applicable,0,0,687533.0,EY,-1,1,0,1,1,1
 Innomatics Research Labs,Machine Learning and AI Trainer,Hyderābād,"Job description
 Experience
 Minimum 4+ Years of experience in machine learning & data analytics,AI.
@@ -4807,7 +4807,7 @@ total work: 1 year (Preferred)
 Speak with the employer
 +91 8008441993
 Show Less
-Report","₹12,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Innomatics Research Labs,-1,1,0,0,1,0
+Report","₹12,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,1200000.0,Innomatics Research Labs,-1,1,0,0,1,0
 Centre For Translational Cancer Research -Prashanti Cancer Care Mission,Junior Data Scientist (Breast Cancer Clinical Data),Pune,"Job Description: Junior Data Scientist (Breast Cancer Clinical Data)
 We at PCCM-CTCR are looking for the following candidate to join our Data Team to evolve the existing system and design the needed schema for research and medical-related data.
 Responsibilities:
@@ -4842,7 +4842,7 @@ List experience or degree in Biological Sciences
 Experience:
 total work: 2 years (Required)
 Show Less
-Report","₹30,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Centre For Translational Cancer Research -Prashanti Cancer Care Mission,-1,1,0,0,0,0
+Report","₹30,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,30000.0,Centre For Translational Cancer Research -Prashanti Cancer Care Mission,-1,1,0,0,0,0
 "Nestsoft technologies
 2.9",Python AI / ML (Online Trainer Part Time),Remote,"Online
 Experience: 1 Years To 5 Years Salary : 10000- 25000 (Month) Part Time
@@ -4851,7 +4851,7 @@ Qualification Required: Any Graduate
 Skills Required: Python, Machine Learning, Artificial Intelligence, Deep Learning, Data Science
 Details: Wanted part time online trainer for Python, Machine Learning, Artificial Intelligence, Deep Learning, Data Science. While you are working as developer you can also work as trainer with us. It will get more income to your skills and experience. We need expert developers as trainer.. Please do not call/whatsapp to any of our company mobile(s). Apply through our website or by email to hr@nestsoft.com
 Show Less
-Report","$17,500 /mo (est.)",51 to 200 Employees,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,Nestsoft technologies,-1,1,0,0,0,0
+Report","$17,500 /mo (est.)",51 to 200 Employees,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,17500.0,Nestsoft technologies,-1,1,0,0,0,0
 Finarkein Analytics Pvt. Ltd.,Machine Learning Engineer,Pune,"We are looking for a passionate Machine Learning Engineer who will be responsible for adding machine learning based analytics features to our scalable SaaS products.
 Job Details:
 Job Title: Machine Learning Engineer
@@ -4891,7 +4891,7 @@ Experience:
 Machine learning: 1 year (Preferred)
 Python / R / Java: 1 year (Preferred)
 Show Less
-Report","₹11,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Finarkein Analytics Pvt. Ltd.,-1,1,0,1,0,0
+Report","₹11,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,1100000.0,Finarkein Analytics Pvt. Ltd.,-1,1,0,1,0,0
 "Samsung Electro-Mechanics
 3.5",Machine Learning Engineer,Bangalore,"Job Responsibilities:
 ·Work with deep learning experts to design and implement networks optimized for GPU-accelerated inference
@@ -4938,7 +4938,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 9148758311
 Show Less
-Report","₹1,00,000 /mo (est.)",1001 to 5000 Employees,Subsidiary or Business Segment,Information Technology,Computer Hardware Development,1938,$10+ billion (USD),0,1,Samsung Electro-Mechanics,84,1,0,0,0,1
+Report","₹1,00,000 /mo (est.)",1001 to 5000 Employees,Subsidiary or Business Segment,Information Technology,Computer Hardware Development,1938,$10+ billion (USD),0,1,100000.0,Samsung Electro-Mechanics,84,1,0,0,0,1
 Hire Me Technology Limited,Computer Vision / Machine Learning Engineer (Remote),New Delhi,"We are looking for excellent Computer Vision engineers who can take initiatives, design, and develop advanced machine learning solutions, and deploy them directly to the given platform. A talented machine learning engineer with expertise in computer vision and can apply different kinds of machine learning models to a diverse range of exciting and impactful client projects especially human detection, face tracking and augmented reality with human face, and augmented reality in Indoor/Outdoor environment. To be successful in this role, you need a strong machine learning experience with Computer Vision background, experience in deploying models to the cloud such as AWS, solid software development skills and docker, a love of learning, and to collaborate well in multi-disciplinary teams.
 A successful candidate will take pride in working with engineers, product managers and business partners to identity and solve the most challenging safety and integrity problems in the internet scale. Candidate will conduct research on deep learning for application processors and multimedia processors with applications such as computer vision, or image and video processing. Candidate will work as part of a team on the system design, implementation, and verification of algorithms for application processors and multimedia processors. As a member of the team, you will develop innovative and sophisticated solutions to some of the most complex strategic business challenges. You will need to exhibit strong communication and leadership skills, an ability to set priorities, and an execution focus in a dynamic environment.
 ⃟Lead to build the trust and safety machine learning production models.
@@ -4966,7 +4966,7 @@ Morning shift
 Experience:
 Computer vision: 2 years (Preferred)
 Show Less
-Report","₹4,09,878 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,Hire Me Technology Limited,-1,1,0,0,1,1
+Report","₹4,09,878 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,409878.0,Hire Me Technology Limited,-1,1,0,0,1,1
 TheHive,Data Scientist,Remote,"Responsibilities:
  Undertaking data collection, preprocessing and analysis
  Building models to address business problems
@@ -4997,7 +4997,7 @@ Monday to Friday
 Night shift
 US shift
 Show Less
-Report","$2,00,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,TheHive,-1,1,0,0,0,1
+Report","$2,00,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,200000.0,TheHive,-1,1,0,0,0,1
 "A for Analytics IT Solutions
 3.7",Machine Learning Specialist (Data Scientist),Chennai,"Full Job Description
 ‘A for Analytics’ is looking to hire a Data Scientist. A for Analytics is the leading global system Integrator for the last several years in the global Market, offering Business Intelligence, Data Engineering, Artificial Intelligence and ZOHO services to customers. A for Analytics helps customers in Advisory, Solution Delivery, 24/7 Technical Support and Fully Managed Services.
@@ -5049,7 +5049,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 7010947442
 Show Less
-Report","₹12,50,000 /yr (est.)",1 to 50 Employees,Company - Private,Information Technology,Information Technology Support Services,2016,$25 to $50 million (USD),0,0,A for Analytics IT Solutions,6,1,0,0,0,0
+Report","₹12,50,000 /yr (est.)",1 to 50 Employees,Company - Private,Information Technology,Information Technology Support Services,2016,$25 to $50 million (USD),0,0,1250000.0,A for Analytics IT Solutions,6,1,0,0,0,0
 Nustar technologies,Machine Learning Engineer,India,"JOB LOCATION - BHUBANESHWAR
 EXPERIENCE - 4+ YEARS
 Good communication skills
@@ -5071,7 +5071,7 @@ Bhubaneshwar - 750001, Odisha: Reliably commute or planning to relocate before s
 Experience:
 total work: 4 years (Preferred)
 Show Less
-Report","₹9,68,126 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Nustar technologies,-1,1,0,0,0,0
+Report","₹9,68,126 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,968126.0,Nustar technologies,-1,1,0,0,0,0
 "Mu Sigma | Mega Job-A-Thon
 4.3",Trainee - Data Science,Bangalore,"Solving a problem can be as simple or as complicated as you make it to be. But the key to
 solving a problem is Asking the right questions to enable the process of decision making.
@@ -5136,7 +5136,7 @@ Qualification
 Graduated B.E/B.Tech any domain in 2019 / 2020/2021/2022 with aggregate of 7 CGPA
 A minimum aggregate of 70% in class 10th and 12th
 Show Less
-Report","₹4,60,976 /yr (est.)",201 to 500 Employees,Company - Private,Education,Colleges & Universities,-1,Unknown / Non-Applicable,0,0,Mu Sigma | Mega Job-A-Thon,-1,1,0,0,0,1
+Report","₹4,60,976 /yr (est.)",201 to 500 Employees,Company - Private,Education,Colleges & Universities,-1,Unknown / Non-Applicable,0,0,460976.0,Mu Sigma | Mega Job-A-Thon,-1,1,0,0,0,1
 "Hitachi India Pvt, Ltd.
 3.8",Data Scientist / AI-ML Engineer,Bangalore,"Description
 Data Scientist / AI-ML Engineer
@@ -5155,7 +5155,7 @@ Requirements:
 Special Preference:
 Eminence: Patents, publications, thought leadership, invited speakership and conspicuous presence in refereed platforms or forums of repute.
 Show Less
-Report","₹3,41,776 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Enterprise Software & Network Solutions,1910,$10+ billion (USD),0,0,"Hitachi India Pvt, Ltd.",112,1,0,0,0,1
+Report","₹3,41,776 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Enterprise Software & Network Solutions,1910,$10+ billion (USD),0,0,341776.0,"Hitachi India Pvt, Ltd.",112,1,0,0,0,1
 "Larsen & Toubro Limited
 3.5",Computer Vision/Artificial Intelligence,Chennai,"Smart World And CommunicationChennai Head Qrs.
 Required Experience
@@ -5201,7 +5201,7 @@ Solid understanding of state-of-the-art capabilities and design of sensing and c
 Strong working knowledge in networking and other data-centre technologies
 Strong problem solving and logical skills & A Go-getter kind of attitude
 Show Less
-Report","₹3,65,335 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,2014,$500 million to $1 billion (USD),0,0,Larsen & Toubro Limited,8,1,0,0,1,0
+Report","₹3,65,335 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,2014,$500 million to $1 billion (USD),0,0,365335.0,Larsen & Toubro Limited,8,1,0,0,1,0
 Hellowork Technologies Pvt Ltd,Data Scientist,Mumbai,"ROLES AND RESPONSIBILITIES * Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions. * Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies. * Assess the effectiveness and accuracy of new data sources and data gathering techniques. * Develop custom data models and algorithms to apply to data sets. * Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting and other business outcomes. SKILLSET REQUIRED * Strong problem-solving skills with an emphasis on product development. * Experience using statistical computer languages (R, Python, SQL, etc.) to manipulate data and draw insights from large data sets. * Experience working with and creating data architectures. * Knowledge of statistical techniques and concepts is preferred (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications. * Excellent written and verbal communication skills for coordinating across teams. * A drive to learn and master new technologies and techniques. CANDIDATE MUST HAVE * R, Python, SQL * Data architectures.
 Job Type: Full-time
 Salary: ₹1,019,003.06 - ₹1,550,131.97 per year
@@ -5216,7 +5216,7 @@ Experience:
 Speak with the employer
 +91 8208108474
 Show Less
-Report","₹12,84,568 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,Hellowork Technologies Pvt Ltd,-1,1,0,0,0,1
+Report","₹12,84,568 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,1284568.0,Hellowork Technologies Pvt Ltd,-1,1,0,0,0,1
 "Kmart
 3.4",Data Scientist,Bangalore,"Brighter futures start here
 Anko is the global capability centre for Kmart Group Australia, fuelling growth aspirations of iconic Australian retail brands Kmart, Target and Anko. Based in Bangalore, India, we strive to accelerate retail innovation by building competitive capabilities in Technology, Data Sciences and Business Services that enable our brands to deliver delightful experiences to our in-store and online customers
@@ -5248,7 +5248,7 @@ A place you can belong
 
 We celebrate the rich diversity of the communities in which we operate and are committed to creating inclusive and safe environments where all our team members can contribute and succeed. We believe that all team members should feel valued, respected, and safe irrespective of your gender, ethnicity, indigeneity, religious beliefs, education, age, disability, family responsibilities, sexual orientation and gender identity and we encourage applications from all candidates.
 Show Less
-Report","₹3,32,718 /yr (est.)",10000+ Employees,Subsidiary or Business Segment,Retail & Wholesale,General Merchandise & Superstores,1899,$5 to $10 billion (USD),0,0,Kmart,123,1,0,0,1,0
+Report","₹3,32,718 /yr (est.)",10000+ Employees,Subsidiary or Business Segment,Retail & Wholesale,General Merchandise & Superstores,1899,$5 to $10 billion (USD),0,0,332718.0,Kmart,123,1,0,0,1,0
 "Alphanet
 4.4",Machine Learning Engineer,Mohali,"Machine Learning Engineer / Automation
 WFH
@@ -5279,7 +5279,7 @@ Supplemental pay types:
 Joining bonus
 Performance bonus
 Show Less
-Report","₹22,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2001,$25 to $50 million (USD),0,0,Alphanet,21,1,0,0,1,0
+Report","₹22,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2001,$25 to $50 million (USD),0,0,2250000.0,Alphanet,21,1,0,0,1,0
 "IBM
 4.1",Data Scientist,Ahmedabad,"Introduction
 IBM Ecosystem/Build Lab guides and performs technical build motion activities for IBM's strategic Partners (ISVs - Independent Software Vendors). IBM Build Labs leverages the power and flexibility of IBM's hybrid cloud and AI platforms for development, deployment and get-to-market validation, transforming partner products into innovative joint solutions. With Red Hat OpenShift, IBM Cloud Paks and the entire IBM Cloud and AI portfolio. Modernized products can then run on virtually any platform, opening up new market opportunities and competitive advantages for partners — and their clients — not to mention the support and community of the IBM partner ecosystem
@@ -5365,7 +5365,7 @@ Being You @ IBM
 IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
 Apply Now: click Apply Now
 Show Less
-Report","₹6,20,059 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,1911,$10+ billion (USD),0,0,IBM,111,1,0,1,1,1
+Report","₹6,20,059 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,1911,$10+ billion (USD),0,0,620059.0,IBM,111,1,0,1,1,1
 Nimetler Technologies Private Limited,Business Analyst-Data Scientist,Mumbai,"We are looking for part time or weekend trainer on following technologies:
 1. Data Science
 2. Business Analysts
@@ -5389,7 +5389,7 @@ Experience:
 Data Science and Business Intelligence: 3 years (Preferred)
 Training: 1 year (Preferred)
 Show Less
-Report","₹3,461.54 /hr (est.)",1 to 50 Employees,Unknown,-1,-1,-1,Unknown / Non-Applicable,1,0,Nimetler Technologies Private Limited,-1,0,0,0,0,0
+Report","₹3,461.54 /hr (est.)",1 to 50 Employees,Unknown,-1,-1,-1,Unknown / Non-Applicable,1,0,3461.54,Nimetler Technologies Private Limited,-1,0,0,0,0,0
 BoldTek India Private Limited,Jr. Data Scientist/ ML Engineer,Guwahati,"Jr. Data Scientist/ ML Engineer
 Skill Requirements
 0-1 year of experience as a Data Scientist/ML Engineer
@@ -5430,7 +5430,7 @@ Yearly bonus
 Experience:
 total work: 1 year (Preferred)
 Show Less
-Report","₹22,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,BoldTek India Private Limited,-1,1,0,1,1,0
+Report","₹22,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,22500.0,BoldTek India Private Limited,-1,1,0,1,1,0
 "OptiSol Business Solutions Pvt Ltd
 4.5",Machine Learning Engineer,Coimbatore,"Experience: 3 to 5 years
 Salary Range: 8 to 15LPA
@@ -5476,7 +5476,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 9940775556
 Show Less
-Report","₹11,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2007,$5 to $25 million (USD),0,0,OptiSol Business Solutions Pvt Ltd,15,1,0,0,1,0
+Report","₹11,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2007,$5 to $25 million (USD),0,0,1150000.0,OptiSol Business Solutions Pvt Ltd,15,1,0,0,1,0
 UniConverge Technologies Pvt. Ltd.,Machine Learning/ Data Science Trainer,Noida,"Job Summary
 Give training on Data Science, Machine Learning and AI
 Responsibilities and Duties
@@ -5498,7 +5498,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 7829246239
 Show Less
-Report","₹67,897 /mo (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,UniConverge Technologies Pvt. Ltd.,-1,1,0,0,0,0
+Report","₹67,897 /mo (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,67897.0,UniConverge Technologies Pvt. Ltd.,-1,1,0,0,0,0
 "Eve World Platform
 4.5",Python Machine Learning Engineer,Remote,"ABOUT EVE WORLD
 Eve World is a deep tech social media, community & e-commerce mobile super app; web3, DAO, Blockchain based, bridging the gap in providing freedom in the virtual world through relatable multi-format, entertaining content, creator and community tools.
@@ -5529,7 +5529,7 @@ Schedule:
 Day shift
 Monday to Friday
 Show Less
-Report","$2,10,000 /mo (est.)",51 to 200 Employees,Company - Private,Information Technology,Software Development,2021,Unknown / Non-Applicable,0,1,Eve World Platform,1,1,0,0,0,0
+Report","$2,10,000 /mo (est.)",51 to 200 Employees,Company - Private,Information Technology,Software Development,2021,Unknown / Non-Applicable,0,1,210000.0,Eve World Platform,1,1,0,0,0,0
 LeadIndia Manpower Services,"Fresher Data Analyst , Data Science , SQL , Python",Hassan,"Key skills :
 
 Advanced Excel, word, PDF skills
@@ -5593,7 +5593,7 @@ Mobile
 Email ID
 hrashish@leadindia.info
 Show Less
-Report","₹4,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,LeadIndia Manpower Services,-1,1,0,0,0,1
+Report","₹4,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,450000.0,LeadIndia Manpower Services,-1,1,0,0,0,1
 Brimming Grace Capital Pvt Ltd,Deep Learning Intern,Gurgaon,"Please Read Job Description properly.
 Candidates are also required to fill this form.
 https://forms.gle/hXuMDQHEyENAhqHC7
@@ -5641,7 +5641,7 @@ Computer vision: 1 year (Preferred)
 Python: 1 year (Preferred)
 Django: 1 year (Preferred)
 Show Less
-Report","₹52,276 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Brimming Grace Capital Pvt Ltd,-1,1,0,1,0,1
+Report","₹52,276 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,52276.0,Brimming Grace Capital Pvt Ltd,-1,1,0,1,0,1
 "A for Analytics IT Solutions
 3.7",Machine Learning Specialist (Data Scientist),Chennai,"Full Job Description
 ‘A for Analytics’ is looking to hire a Data Scientist. A for Analytics is the leading global system Integrator for the last several years in the global Market, offering Business Intelligence, Data Engineering, Artificial Intelligence and ZOHO services to customers. A for Analytics helps customers in Advisory, Solution Delivery, 24/7 Technical Support and Fully Managed Services.
@@ -5693,7 +5693,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 7010947442
 Show Less
-Report","₹12,50,000 /yr (est.)",1 to 50 Employees,Company - Private,Information Technology,Information Technology Support Services,2016,$25 to $50 million (USD),0,0,A for Analytics IT Solutions,6,1,0,0,0,0
+Report","₹12,50,000 /yr (est.)",1 to 50 Employees,Company - Private,Information Technology,Information Technology Support Services,2016,$25 to $50 million (USD),0,0,1250000.0,A for Analytics IT Solutions,6,1,0,0,0,0
 Hire Me Technology Limited,Computer Vision / Machine Learning Engineer (Remote),New Delhi,"We are looking for excellent Computer Vision engineers who can take initiatives, design, and develop advanced machine learning solutions, and deploy them directly to the given platform. A talented machine learning engineer with expertise in computer vision and can apply different kinds of machine learning models to a diverse range of exciting and impactful client projects especially human detection, face tracking and augmented reality with human face, and augmented reality in Indoor/Outdoor environment. To be successful in this role, you need a strong machine learning experience with Computer Vision background, experience in deploying models to the cloud such as AWS, solid software development skills and docker, a love of learning, and to collaborate well in multi-disciplinary teams.
 A successful candidate will take pride in working with engineers, product managers and business partners to identity and solve the most challenging safety and integrity problems in the internet scale. Candidate will conduct research on deep learning for application processors and multimedia processors with applications such as computer vision, or image and video processing. Candidate will work as part of a team on the system design, implementation, and verification of algorithms for application processors and multimedia processors. As a member of the team, you will develop innovative and sophisticated solutions to some of the most complex strategic business challenges. You will need to exhibit strong communication and leadership skills, an ability to set priorities, and an execution focus in a dynamic environment.
 ⃟Lead to build the trust and safety machine learning production models.
@@ -5721,7 +5721,7 @@ Morning shift
 Experience:
 Computer vision: 2 years (Preferred)
 Show Less
-Report","₹4,09,878 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,Hire Me Technology Limited,-1,1,0,0,1,1
+Report","₹4,09,878 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,409878.0,Hire Me Technology Limited,-1,1,0,0,1,1
 Centre For Translational Cancer Research -Prashanti Cancer Care Mission,Junior Data Scientist (Breast Cancer Clinical Data),Pune,"Job Description: Junior Data Scientist (Breast Cancer Clinical Data)
 We at PCCM-CTCR are looking for the following candidate to join our Data Team to evolve the existing system and design the needed schema for research and medical-related data.
 Responsibilities:
@@ -5756,7 +5756,7 @@ List experience or degree in Biological Sciences
 Experience:
 total work: 2 years (Required)
 Show Less
-Report","₹30,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Centre For Translational Cancer Research -Prashanti Cancer Care Mission,-1,1,0,0,0,0
+Report","₹30,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,30000.0,Centre For Translational Cancer Research -Prashanti Cancer Care Mission,-1,1,0,0,0,0
 "Samsung Electro-Mechanics
 3.5",Machine Learning Engineer,Bangalore,"Job Responsibilities:
 ·Work with deep learning experts to design and implement networks optimized for GPU-accelerated inference
@@ -5803,7 +5803,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 9148758311
 Show Less
-Report","₹1,00,000 /mo (est.)",1001 to 5000 Employees,Subsidiary or Business Segment,Information Technology,Computer Hardware Development,1938,$10+ billion (USD),0,1,Samsung Electro-Mechanics,84,1,0,0,0,1
+Report","₹1,00,000 /mo (est.)",1001 to 5000 Employees,Subsidiary or Business Segment,Information Technology,Computer Hardware Development,1938,$10+ billion (USD),0,1,100000.0,Samsung Electro-Mechanics,84,1,0,0,0,1
 "EY
 3.9",Manager - Business Consulting Risk - CS&A - Data Scientist - Mumbai,Mumbai,"Manager – Risk Advisory Services – Data Scientist
 
@@ -5876,7 +5876,7 @@ About EY
 
 As a global leader in assurance, tax, transaction and advisory services, we’re using the finance products, expertise and systems we’ve developed to build a better working world. That starts with a culture that believes in giving you the training, opportunities and creative freedom to make things better. Whenever you join, however long you stay, the exceptional EY experience lasts a lifetime. And with a commitment to hiring and developing the most passionate people, we’ll make our ambition to be the best employer by 2020 a reality.
 Show Less
-Report","₹6,87,533 /yr (est.)",Unknown,Unknown,-1,-1,-1,Unknown / Non-Applicable,0,0,EY,-1,1,0,1,1,1
+Report","₹6,87,533 /yr (est.)",Unknown,Unknown,-1,-1,-1,Unknown / Non-Applicable,0,0,687533.0,EY,-1,1,0,1,1,1
 "Nestsoft technologies
 2.9",Python AI / ML (Online Trainer Part Time),Remote,"Online
 Experience: 1 Years To 5 Years Salary : 10000- 25000 (Month) Part Time
@@ -5885,7 +5885,7 @@ Qualification Required: Any Graduate
 Skills Required: Python, Machine Learning, Artificial Intelligence, Deep Learning, Data Science
 Details: Wanted part time online trainer for Python, Machine Learning, Artificial Intelligence, Deep Learning, Data Science. While you are working as developer you can also work as trainer with us. It will get more income to your skills and experience. We need expert developers as trainer.. Please do not call/whatsapp to any of our company mobile(s). Apply through our website or by email to hr@nestsoft.com
 Show Less
-Report","$17,500 /mo (est.)",51 to 200 Employees,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,Nestsoft technologies,-1,1,0,0,0,0
+Report","$17,500 /mo (est.)",51 to 200 Employees,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,17500.0,Nestsoft technologies,-1,1,0,0,0,0
 "Larsen & Toubro Limited
 3.5",Computer Vision/Artificial Intelligence,Chennai,"Smart World And CommunicationChennai Head Qrs.
 Required Experience
@@ -5931,7 +5931,7 @@ Solid understanding of state-of-the-art capabilities and design of sensing and c
 Strong working knowledge in networking and other data-centre technologies
 Strong problem solving and logical skills & A Go-getter kind of attitude
 Show Less
-Report","₹3,65,335 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,2014,$500 million to $1 billion (USD),0,0,Larsen & Toubro Limited,8,1,0,0,1,0
+Report","₹3,65,335 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,2014,$500 million to $1 billion (USD),0,0,365335.0,Larsen & Toubro Limited,8,1,0,0,1,0
 Finarkein Analytics Pvt. Ltd.,Machine Learning Engineer,Pune,"We are looking for a passionate Machine Learning Engineer who will be responsible for adding machine learning based analytics features to our scalable SaaS products.
 Job Details:
 Job Title: Machine Learning Engineer
@@ -5971,7 +5971,7 @@ Experience:
 Machine learning: 1 year (Preferred)
 Python / R / Java: 1 year (Preferred)
 Show Less
-Report","₹11,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Finarkein Analytics Pvt. Ltd.,-1,1,0,1,0,0
+Report","₹11,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,1100000.0,Finarkein Analytics Pvt. Ltd.,-1,1,0,1,0,0
 "Hitachi India Pvt, Ltd.
 3.8",Data Scientist / AI-ML Engineer,Bangalore,"Description
 Data Scientist / AI-ML Engineer
@@ -5990,7 +5990,7 @@ Requirements:
 Special Preference:
 Eminence: Patents, publications, thought leadership, invited speakership and conspicuous presence in refereed platforms or forums of repute.
 Show Less
-Report","₹3,41,776 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Enterprise Software & Network Solutions,1910,$10+ billion (USD),0,0,"Hitachi India Pvt, Ltd.",112,1,0,0,0,1
+Report","₹3,41,776 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Enterprise Software & Network Solutions,1910,$10+ billion (USD),0,0,341776.0,"Hitachi India Pvt, Ltd.",112,1,0,0,0,1
 Innomatics Research Labs,Machine Learning and AI Trainer,Hyderābād,"Job description
 Experience
 Minimum 4+ Years of experience in machine learning & data analytics,AI.
@@ -6025,7 +6025,7 @@ total work: 1 year (Preferred)
 Speak with the employer
 +91 8008441993
 Show Less
-Report","₹12,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Innomatics Research Labs,-1,1,0,0,1,0
+Report","₹12,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,1200000.0,Innomatics Research Labs,-1,1,0,0,1,0
 TheHive,Data Scientist,Remote,"Responsibilities:
  Undertaking data collection, preprocessing and analysis
  Building models to address business problems
@@ -6056,7 +6056,7 @@ Monday to Friday
 Night shift
 US shift
 Show Less
-Report","$2,00,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,TheHive,-1,1,0,0,0,1
+Report","$2,00,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,200000.0,TheHive,-1,1,0,0,0,1
 "Mu Sigma | Mega Job-A-Thon
 4.3",Trainee - Data Science,Bangalore,"Solving a problem can be as simple or as complicated as you make it to be. But the key to
 solving a problem is Asking the right questions to enable the process of decision making.
@@ -6121,7 +6121,7 @@ Qualification
 Graduated B.E/B.Tech any domain in 2019 / 2020/2021/2022 with aggregate of 7 CGPA
 A minimum aggregate of 70% in class 10th and 12th
 Show Less
-Report","₹4,60,976 /yr (est.)",201 to 500 Employees,Company - Private,Education,Colleges & Universities,-1,Unknown / Non-Applicable,0,0,Mu Sigma | Mega Job-A-Thon,-1,1,0,0,0,1
+Report","₹4,60,976 /yr (est.)",201 to 500 Employees,Company - Private,Education,Colleges & Universities,-1,Unknown / Non-Applicable,0,0,460976.0,Mu Sigma | Mega Job-A-Thon,-1,1,0,0,0,1
 "Alphanet
 4.4",Machine Learning Engineer,Mohali,"Machine Learning Engineer / Automation
 WFH
@@ -6152,7 +6152,7 @@ Supplemental pay types:
 Joining bonus
 Performance bonus
 Show Less
-Report","₹22,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2001,$25 to $50 million (USD),0,0,Alphanet,21,1,0,0,1,0
+Report","₹22,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2001,$25 to $50 million (USD),0,0,2250000.0,Alphanet,21,1,0,0,1,0
 AgEye Technologies,Computer Vision Engineer,Bangalore,"Job: Computer Vision Engineer
 Position Type: Full-time – Permanent
 Location: Bangalore, Karnataka (IN)
@@ -6197,7 +6197,7 @@ Monday to Friday
 Speak with the employer
 +91 9113072108
 Show Less
-Report","₹9,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,AgEye Technologies,-1,1,0,0,1,1
+Report","₹9,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,950000.0,AgEye Technologies,-1,1,0,0,1,1
 Nustar technologies,Machine Learning Engineer,India,"JOB LOCATION - BHUBANESHWAR
 EXPERIENCE - 4+ YEARS
 Good communication skills
@@ -6219,7 +6219,7 @@ Bhubaneshwar - 750001, Odisha: Reliably commute or planning to relocate before s
 Experience:
 total work: 4 years (Preferred)
 Show Less
-Report","₹9,68,126 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Nustar technologies,-1,1,0,0,0,0
+Report","₹9,68,126 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,968126.0,Nustar technologies,-1,1,0,0,0,0
 INTEGRATED SERVICES,Machine Learning Engineer,Bangalore,"We are looking for Machine Learning Engineer (Remote ) for our reputed client , details as folows
 Prior Experience as Machine Learning Engineer or similar role
 Understanding of Data Modelling and Data Structures and software architecture
@@ -6237,7 +6237,7 @@ total work: 5 years (Required)
 Speak with the employer
 +91 9830895196
 Show Less
-Report","₹21,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,INTEGRATED SERVICES,-1,1,0,0,0,0
+Report","₹21,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,2100000.0,INTEGRATED SERVICES,-1,1,0,0,0,0
 "Kmart
 3.4",Data Scientist,Bangalore,"Brighter futures start here
 Anko is the global capability centre for Kmart Group Australia, fuelling growth aspirations of iconic Australian retail brands Kmart, Target and Anko. Based in Bangalore, India, we strive to accelerate retail innovation by building competitive capabilities in Technology, Data Sciences and Business Services that enable our brands to deliver delightful experiences to our in-store and online customers
@@ -6269,7 +6269,7 @@ A place you can belong
 
 We celebrate the rich diversity of the communities in which we operate and are committed to creating inclusive and safe environments where all our team members can contribute and succeed. We believe that all team members should feel valued, respected, and safe irrespective of your gender, ethnicity, indigeneity, religious beliefs, education, age, disability, family responsibilities, sexual orientation and gender identity and we encourage applications from all candidates.
 Show Less
-Report","₹3,32,718 /yr (est.)",10000+ Employees,Subsidiary or Business Segment,Retail & Wholesale,General Merchandise & Superstores,1899,$5 to $10 billion (USD),0,0,Kmart,123,1,0,0,1,0
+Report","₹3,32,718 /yr (est.)",10000+ Employees,Subsidiary or Business Segment,Retail & Wholesale,General Merchandise & Superstores,1899,$5 to $10 billion (USD),0,0,332718.0,Kmart,123,1,0,0,1,0
 Flipped.ai,Senior Data Scientist (Pharma Background),Bangalore,"Sr. Data Scientist (Pharma background)
 The ideal candidate's favorite words are learning, data, scale, and agility. You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers. You are a data pro with deep statistical knowledge and analytical aptitude. You know how to make sense of massive amounts of data and gather deep insights. You will use statistics, data mining, machine learning, and deep learning techniques to deliver data-driven insights for clients. You are a thought leader with a commercial acumen, always on top of AI and ML trends.
 Responsibilities:
@@ -6309,7 +6309,7 @@ Machine learning applications: 2 years (Required)
 Deep Learning applications: 1 year (Required)
 Pharma Industry: 2 years (Required)
 Show Less
-Report","₹25,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Flipped.ai,-1,1,0,1,1,0
+Report","₹25,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,2500000.0,Flipped.ai,-1,1,0,1,1,0
 "OptiSol Business Solutions Pvt Ltd
 4.5",Machine Learning Engineer,Coimbatore,"Experience: 3 to 5 years
 Salary Range: 8 to 15LPA
@@ -6355,7 +6355,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 9940775556
 Show Less
-Report","₹11,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2007,$5 to $25 million (USD),0,0,OptiSol Business Solutions Pvt Ltd,15,1,0,0,1,0
+Report","₹11,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2007,$5 to $25 million (USD),0,0,1150000.0,OptiSol Business Solutions Pvt Ltd,15,1,0,0,1,0
 UniConverge Technologies Pvt. Ltd.,Machine Learning/ Data Science Trainer,Noida,"Job Summary
 Give training on Data Science, Machine Learning and AI
 Responsibilities and Duties
@@ -6377,7 +6377,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 7829246239
 Show Less
-Report","₹67,897 /mo (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,UniConverge Technologies Pvt. Ltd.,-1,1,0,0,0,0
+Report","₹67,897 /mo (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,67897.0,UniConverge Technologies Pvt. Ltd.,-1,1,0,0,0,0
 "Eve World Platform
 4.5",Python Machine Learning Engineer,Remote,"ABOUT EVE WORLD
 Eve World is a deep tech social media, community & e-commerce mobile super app; web3, DAO, Blockchain based, bridging the gap in providing freedom in the virtual world through relatable multi-format, entertaining content, creator and community tools.
@@ -6408,7 +6408,7 @@ Schedule:
 Day shift
 Monday to Friday
 Show Less
-Report","$2,10,000 /mo (est.)",51 to 200 Employees,Company - Private,Information Technology,Software Development,2021,Unknown / Non-Applicable,0,1,Eve World Platform,1,1,0,0,0,0
+Report","$2,10,000 /mo (est.)",51 to 200 Employees,Company - Private,Information Technology,Software Development,2021,Unknown / Non-Applicable,0,1,210000.0,Eve World Platform,1,1,0,0,0,0
 LeadIndia Manpower Services,"Fresher Data Analyst , Data Science , SQL , Python",Hassan,"Key skills :
 
 Advanced Excel, word, PDF skills
@@ -6472,7 +6472,7 @@ Mobile
 Email ID
 hrashish@leadindia.info
 Show Less
-Report","₹4,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,LeadIndia Manpower Services,-1,1,0,0,0,1
+Report","₹4,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,450000.0,LeadIndia Manpower Services,-1,1,0,0,0,1
 Brimming Grace Capital Pvt Ltd,Deep Learning Intern,Gurgaon,"Please Read Job Description properly.
 Candidates are also required to fill this form.
 https://forms.gle/hXuMDQHEyENAhqHC7
@@ -6520,7 +6520,7 @@ Computer vision: 1 year (Preferred)
 Python: 1 year (Preferred)
 Django: 1 year (Preferred)
 Show Less
-Report","₹52,276 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Brimming Grace Capital Pvt Ltd,-1,1,0,1,0,1
+Report","₹52,276 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,52276.0,Brimming Grace Capital Pvt Ltd,-1,1,0,1,0,1
 "A for Analytics IT Solutions
 3.7",Machine Learning Specialist (Data Scientist),Chennai,"Full Job Description
 ‘A for Analytics’ is looking to hire a Data Scientist. A for Analytics is the leading global system Integrator for the last several years in the global Market, offering Business Intelligence, Data Engineering, Artificial Intelligence and ZOHO services to customers. A for Analytics helps customers in Advisory, Solution Delivery, 24/7 Technical Support and Fully Managed Services.
@@ -6572,7 +6572,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 7010947442
 Show Less
-Report","₹12,50,000 /yr (est.)",1 to 50 Employees,Company - Private,Information Technology,Information Technology Support Services,2016,$25 to $50 million (USD),0,0,A for Analytics IT Solutions,6,1,0,0,0,0
+Report","₹12,50,000 /yr (est.)",1 to 50 Employees,Company - Private,Information Technology,Information Technology Support Services,2016,$25 to $50 million (USD),0,0,1250000.0,A for Analytics IT Solutions,6,1,0,0,0,0
 Hire Me Technology Limited,Computer Vision / Machine Learning Engineer (Remote),New Delhi,"We are looking for excellent Computer Vision engineers who can take initiatives, design, and develop advanced machine learning solutions, and deploy them directly to the given platform. A talented machine learning engineer with expertise in computer vision and can apply different kinds of machine learning models to a diverse range of exciting and impactful client projects especially human detection, face tracking and augmented reality with human face, and augmented reality in Indoor/Outdoor environment. To be successful in this role, you need a strong machine learning experience with Computer Vision background, experience in deploying models to the cloud such as AWS, solid software development skills and docker, a love of learning, and to collaborate well in multi-disciplinary teams.
 A successful candidate will take pride in working with engineers, product managers and business partners to identity and solve the most challenging safety and integrity problems in the internet scale. Candidate will conduct research on deep learning for application processors and multimedia processors with applications such as computer vision, or image and video processing. Candidate will work as part of a team on the system design, implementation, and verification of algorithms for application processors and multimedia processors. As a member of the team, you will develop innovative and sophisticated solutions to some of the most complex strategic business challenges. You will need to exhibit strong communication and leadership skills, an ability to set priorities, and an execution focus in a dynamic environment.
 ⃟Lead to build the trust and safety machine learning production models.
@@ -6600,7 +6600,7 @@ Morning shift
 Experience:
 Computer vision: 2 years (Preferred)
 Show Less
-Report","₹4,09,878 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,Hire Me Technology Limited,-1,1,0,0,1,1
+Report","₹4,09,878 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,409878.0,Hire Me Technology Limited,-1,1,0,0,1,1
 Centre For Translational Cancer Research -Prashanti Cancer Care Mission,Junior Data Scientist (Breast Cancer Clinical Data),Pune,"Job Description: Junior Data Scientist (Breast Cancer Clinical Data)
 We at PCCM-CTCR are looking for the following candidate to join our Data Team to evolve the existing system and design the needed schema for research and medical-related data.
 Responsibilities:
@@ -6635,7 +6635,7 @@ List experience or degree in Biological Sciences
 Experience:
 total work: 2 years (Required)
 Show Less
-Report","₹30,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Centre For Translational Cancer Research -Prashanti Cancer Care Mission,-1,1,0,0,0,0
+Report","₹30,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,30000.0,Centre For Translational Cancer Research -Prashanti Cancer Care Mission,-1,1,0,0,0,0
 "EY
 3.9",Manager - Business Consulting Risk - CS&A - Data Scientist - Mumbai,Mumbai,"Manager – Risk Advisory Services – Data Scientist
 
@@ -6708,7 +6708,7 @@ About EY
 
 As a global leader in assurance, tax, transaction and advisory services, we’re using the finance products, expertise and systems we’ve developed to build a better working world. That starts with a culture that believes in giving you the training, opportunities and creative freedom to make things better. Whenever you join, however long you stay, the exceptional EY experience lasts a lifetime. And with a commitment to hiring and developing the most passionate people, we’ll make our ambition to be the best employer by 2020 a reality.
 Show Less
-Report","₹6,87,533 /yr (est.)",Unknown,Unknown,-1,-1,-1,Unknown / Non-Applicable,0,0,EY,-1,1,0,1,1,1
+Report","₹6,87,533 /yr (est.)",Unknown,Unknown,-1,-1,-1,Unknown / Non-Applicable,0,0,687533.0,EY,-1,1,0,1,1,1
 "Nestsoft technologies
 2.9",Python AI / ML (Online Trainer Part Time),Remote,"Online
 Experience: 1 Years To 5 Years Salary : 10000- 25000 (Month) Part Time
@@ -6717,7 +6717,7 @@ Qualification Required: Any Graduate
 Skills Required: Python, Machine Learning, Artificial Intelligence, Deep Learning, Data Science
 Details: Wanted part time online trainer for Python, Machine Learning, Artificial Intelligence, Deep Learning, Data Science. While you are working as developer you can also work as trainer with us. It will get more income to your skills and experience. We need expert developers as trainer.. Please do not call/whatsapp to any of our company mobile(s). Apply through our website or by email to hr@nestsoft.com
 Show Less
-Report","$17,500 /mo (est.)",51 to 200 Employees,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,Nestsoft technologies,-1,1,0,0,0,0
+Report","$17,500 /mo (est.)",51 to 200 Employees,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,17500.0,Nestsoft technologies,-1,1,0,0,0,0
 "Samsung Electro-Mechanics
 3.5",Machine Learning Engineer,Bangalore,"Job Responsibilities:
 ·Work with deep learning experts to design and implement networks optimized for GPU-accelerated inference
@@ -6764,7 +6764,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 9148758311
 Show Less
-Report","₹1,00,000 /mo (est.)",1001 to 5000 Employees,Subsidiary or Business Segment,Information Technology,Computer Hardware Development,1938,$10+ billion (USD),0,1,Samsung Electro-Mechanics,84,1,0,0,0,1
+Report","₹1,00,000 /mo (est.)",1001 to 5000 Employees,Subsidiary or Business Segment,Information Technology,Computer Hardware Development,1938,$10+ billion (USD),0,1,100000.0,Samsung Electro-Mechanics,84,1,0,0,0,1
 "Hitachi India Pvt, Ltd.
 3.8",Data Scientist / AI-ML Engineer,Bangalore,"Description
 Data Scientist / AI-ML Engineer
@@ -6783,7 +6783,7 @@ Requirements:
 Special Preference:
 Eminence: Patents, publications, thought leadership, invited speakership and conspicuous presence in refereed platforms or forums of repute.
 Show Less
-Report","₹3,41,776 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Enterprise Software & Network Solutions,1910,$10+ billion (USD),0,0,"Hitachi India Pvt, Ltd.",112,1,0,0,0,1
+Report","₹3,41,776 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Enterprise Software & Network Solutions,1910,$10+ billion (USD),0,0,341776.0,"Hitachi India Pvt, Ltd.",112,1,0,0,0,1
 Innomatics Research Labs,Machine Learning and AI Trainer,Hyderābād,"Job description
 Experience
 Minimum 4+ Years of experience in machine learning & data analytics,AI.
@@ -6818,7 +6818,7 @@ total work: 1 year (Preferred)
 Speak with the employer
 +91 8008441993
 Show Less
-Report","₹12,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Innomatics Research Labs,-1,1,0,0,1,0
+Report","₹12,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,1200000.0,Innomatics Research Labs,-1,1,0,0,1,0
 Finarkein Analytics Pvt. Ltd.,Machine Learning Engineer,Pune,"We are looking for a passionate Machine Learning Engineer who will be responsible for adding machine learning based analytics features to our scalable SaaS products.
 Job Details:
 Job Title: Machine Learning Engineer
@@ -6858,7 +6858,7 @@ Experience:
 Machine learning: 1 year (Preferred)
 Python / R / Java: 1 year (Preferred)
 Show Less
-Report","₹11,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Finarkein Analytics Pvt. Ltd.,-1,1,0,1,0,0
+Report","₹11,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,1100000.0,Finarkein Analytics Pvt. Ltd.,-1,1,0,1,0,0
 TheHive,Data Scientist,Remote,"Responsibilities:
  Undertaking data collection, preprocessing and analysis
  Building models to address business problems
@@ -6889,7 +6889,7 @@ Monday to Friday
 Night shift
 US shift
 Show Less
-Report","$2,00,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,TheHive,-1,1,0,0,0,1
+Report","$2,00,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,200000.0,TheHive,-1,1,0,0,0,1
 Nustar technologies,Machine Learning Engineer,India,"JOB LOCATION - BHUBANESHWAR
 EXPERIENCE - 4+ YEARS
 Good communication skills
@@ -6911,7 +6911,7 @@ Bhubaneshwar - 750001, Odisha: Reliably commute or planning to relocate before s
 Experience:
 total work: 4 years (Preferred)
 Show Less
-Report","₹9,68,126 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Nustar technologies,-1,1,0,0,0,0
+Report","₹9,68,126 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,968126.0,Nustar technologies,-1,1,0,0,0,0
 "Larsen & Toubro Limited
 3.5",Computer Vision/Artificial Intelligence,Chennai,"Smart World And CommunicationChennai Head Qrs.
 Required Experience
@@ -6957,7 +6957,7 @@ Solid understanding of state-of-the-art capabilities and design of sensing and c
 Strong working knowledge in networking and other data-centre technologies
 Strong problem solving and logical skills & A Go-getter kind of attitude
 Show Less
-Report","₹3,65,335 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,2014,$500 million to $1 billion (USD),0,0,Larsen & Toubro Limited,8,1,0,0,1,0
+Report","₹3,65,335 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,2014,$500 million to $1 billion (USD),0,0,365335.0,Larsen & Toubro Limited,8,1,0,0,1,0
 "Alphanet
 4.4",Machine Learning Engineer,Mohali,"Machine Learning Engineer / Automation
 WFH
@@ -6988,7 +6988,7 @@ Supplemental pay types:
 Joining bonus
 Performance bonus
 Show Less
-Report","₹22,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2001,$25 to $50 million (USD),0,0,Alphanet,21,1,0,0,1,0
+Report","₹22,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2001,$25 to $50 million (USD),0,0,2250000.0,Alphanet,21,1,0,0,1,0
 "Mu Sigma | Mega Job-A-Thon
 4.3",Trainee - Data Science,Bangalore,"Solving a problem can be as simple or as complicated as you make it to be. But the key to
 solving a problem is Asking the right questions to enable the process of decision making.
@@ -7053,7 +7053,7 @@ Qualification
 Graduated B.E/B.Tech any domain in 2019 / 2020/2021/2022 with aggregate of 7 CGPA
 A minimum aggregate of 70% in class 10th and 12th
 Show Less
-Report","₹4,60,976 /yr (est.)",201 to 500 Employees,Company - Private,Education,Colleges & Universities,-1,Unknown / Non-Applicable,0,0,Mu Sigma | Mega Job-A-Thon,-1,1,0,0,0,1
+Report","₹4,60,976 /yr (est.)",201 to 500 Employees,Company - Private,Education,Colleges & Universities,-1,Unknown / Non-Applicable,0,0,460976.0,Mu Sigma | Mega Job-A-Thon,-1,1,0,0,0,1
 AgEye Technologies,Computer Vision Engineer,Bangalore,"Job: Computer Vision Engineer
 Position Type: Full-time – Permanent
 Location: Bangalore, Karnataka (IN)
@@ -7098,7 +7098,7 @@ Monday to Friday
 Speak with the employer
 +91 9113072108
 Show Less
-Report","₹9,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,AgEye Technologies,-1,1,0,0,1,1
+Report","₹9,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,950000.0,AgEye Technologies,-1,1,0,0,1,1
 INTEGRATED SERVICES,Machine Learning Engineer,Bangalore,"We are looking for Machine Learning Engineer (Remote ) for our reputed client , details as folows
 Prior Experience as Machine Learning Engineer or similar role
 Understanding of Data Modelling and Data Structures and software architecture
@@ -7116,7 +7116,7 @@ total work: 5 years (Required)
 Speak with the employer
 +91 9830895196
 Show Less
-Report","₹21,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,INTEGRATED SERVICES,-1,1,0,0,0,0
+Report","₹21,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,2100000.0,INTEGRATED SERVICES,-1,1,0,0,0,0
 Ekeeda Pvt. Ltd,Freelancer Data science trainer,New Delhi,"Prior experience as a trainer or a similar position.
 Excellent interpersonal and communication skills.
 Ability to identify gaps in skills.
@@ -7134,7 +7134,7 @@ Speak with the employer
 Application Deadline: 13/10/2022
 Expected Start Date: 12/10/2022
 Show Less
-Report","₹1,153.85 /hr (est.)",-1,-1,-1,-1,-1,-1,1,0,Ekeeda Pvt. Ltd,-1,0,0,0,0,1
+Report","₹1,153.85 /hr (est.)",-1,-1,-1,-1,-1,-1,1,0,1153.85,Ekeeda Pvt. Ltd,-1,0,0,0,0,1
 BoldTek India Private Limited,Jr. Data Scientist/ ML Engineer,Guwahati,"Jr. Data Scientist/ ML Engineer
 Skill Requirements
 0-1 year of experience as a Data Scientist/ML Engineer
@@ -7175,7 +7175,7 @@ Yearly bonus
 Experience:
 total work: 1 year (Preferred)
 Show Less
-Report","₹22,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,BoldTek India Private Limited,-1,1,0,1,1,0
+Report","₹22,500 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,22500.0,BoldTek India Private Limited,-1,1,0,1,1,0
 "OptiSol Business Solutions Pvt Ltd
 4.5",Machine Learning Engineer,Coimbatore,"Experience: 3 to 5 years
 Salary Range: 8 to 15LPA
@@ -7221,7 +7221,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 9940775556
 Show Less
-Report","₹11,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2007,$5 to $25 million (USD),0,0,OptiSol Business Solutions Pvt Ltd,15,1,0,0,1,0
+Report","₹11,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2007,$5 to $25 million (USD),0,0,1150000.0,OptiSol Business Solutions Pvt Ltd,15,1,0,0,1,0
 "Eve World Platform
 4.5",Python Machine Learning Engineer,Remote,"ABOUT EVE WORLD
 Eve World is a deep tech social media, community & e-commerce mobile super app; web3, DAO, Blockchain based, bridging the gap in providing freedom in the virtual world through relatable multi-format, entertaining content, creator and community tools.
@@ -7252,7 +7252,7 @@ Schedule:
 Day shift
 Monday to Friday
 Show Less
-Report","$2,10,000 /mo (est.)",51 to 200 Employees,Company - Private,Information Technology,Software Development,2021,Unknown / Non-Applicable,0,1,Eve World Platform,1,1,0,0,0,0
+Report","$2,10,000 /mo (est.)",51 to 200 Employees,Company - Private,Information Technology,Software Development,2021,Unknown / Non-Applicable,0,1,210000.0,Eve World Platform,1,1,0,0,0,0
 LeadIndia Manpower Services,"Fresher Data Analyst , Data Science , SQL , Python",Hassan,"Key skills :
 
 Advanced Excel, word, PDF skills
@@ -7316,7 +7316,7 @@ Mobile
 Email ID
 hrashish@leadindia.info
 Show Less
-Report","₹4,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,LeadIndia Manpower Services,-1,1,0,0,0,1
+Report","₹4,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,450000.0,LeadIndia Manpower Services,-1,1,0,0,0,1
 UniConverge Technologies Pvt. Ltd.,Machine Learning/ Data Science Trainer,Noida,"Job Summary
 Give training on Data Science, Machine Learning and AI
 Responsibilities and Duties
@@ -7338,7 +7338,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 7829246239
 Show Less
-Report","₹67,897 /mo (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,UniConverge Technologies Pvt. Ltd.,-1,1,0,0,0,0
+Report","₹67,897 /mo (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,67897.0,UniConverge Technologies Pvt. Ltd.,-1,1,0,0,0,0
 Brimming Grace Capital Pvt Ltd,Deep Learning Intern,Gurgaon,"Please Read Job Description properly.
 Candidates are also required to fill this form.
 https://forms.gle/hXuMDQHEyENAhqHC7
@@ -7386,7 +7386,7 @@ Computer vision: 1 year (Preferred)
 Python: 1 year (Preferred)
 Django: 1 year (Preferred)
 Show Less
-Report","₹52,276 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Brimming Grace Capital Pvt Ltd,-1,1,0,1,0,1
+Report","₹52,276 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,52276.0,Brimming Grace Capital Pvt Ltd,-1,1,0,1,0,1
 "A for Analytics IT Solutions
 3.7",Machine Learning Specialist (Data Scientist),Chennai,"Full Job Description
 ‘A for Analytics’ is looking to hire a Data Scientist. A for Analytics is the leading global system Integrator for the last several years in the global Market, offering Business Intelligence, Data Engineering, Artificial Intelligence and ZOHO services to customers. A for Analytics helps customers in Advisory, Solution Delivery, 24/7 Technical Support and Fully Managed Services.
@@ -7438,7 +7438,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 7010947442
 Show Less
-Report","₹12,50,000 /yr (est.)",1 to 50 Employees,Company - Private,Information Technology,Information Technology Support Services,2016,$25 to $50 million (USD),0,0,A for Analytics IT Solutions,6,1,0,0,0,0
+Report","₹12,50,000 /yr (est.)",1 to 50 Employees,Company - Private,Information Technology,Information Technology Support Services,2016,$25 to $50 million (USD),0,0,1250000.0,A for Analytics IT Solutions,6,1,0,0,0,0
 Hire Me Technology Limited,Computer Vision / Machine Learning Engineer (Remote),New Delhi,"We are looking for excellent Computer Vision engineers who can take initiatives, design, and develop advanced machine learning solutions, and deploy them directly to the given platform. A talented machine learning engineer with expertise in computer vision and can apply different kinds of machine learning models to a diverse range of exciting and impactful client projects especially human detection, face tracking and augmented reality with human face, and augmented reality in Indoor/Outdoor environment. To be successful in this role, you need a strong machine learning experience with Computer Vision background, experience in deploying models to the cloud such as AWS, solid software development skills and docker, a love of learning, and to collaborate well in multi-disciplinary teams.
 A successful candidate will take pride in working with engineers, product managers and business partners to identity and solve the most challenging safety and integrity problems in the internet scale. Candidate will conduct research on deep learning for application processors and multimedia processors with applications such as computer vision, or image and video processing. Candidate will work as part of a team on the system design, implementation, and verification of algorithms for application processors and multimedia processors. As a member of the team, you will develop innovative and sophisticated solutions to some of the most complex strategic business challenges. You will need to exhibit strong communication and leadership skills, an ability to set priorities, and an execution focus in a dynamic environment.
 ⃟Lead to build the trust and safety machine learning production models.
@@ -7466,7 +7466,7 @@ Morning shift
 Experience:
 Computer vision: 2 years (Preferred)
 Show Less
-Report","₹4,09,878 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,Hire Me Technology Limited,-1,1,0,0,1,1
+Report","₹4,09,878 /yr (est.)",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,0,409878.0,Hire Me Technology Limited,-1,1,0,0,1,1
 "EY
 3.9",Manager - Business Consulting Risk - CS&A - Data Scientist - Mumbai,Mumbai,"Manager – Risk Advisory Services – Data Scientist
 
@@ -7539,7 +7539,7 @@ About EY
 
 As a global leader in assurance, tax, transaction and advisory services, we’re using the finance products, expertise and systems we’ve developed to build a better working world. That starts with a culture that believes in giving you the training, opportunities and creative freedom to make things better. Whenever you join, however long you stay, the exceptional EY experience lasts a lifetime. And with a commitment to hiring and developing the most passionate people, we’ll make our ambition to be the best employer by 2020 a reality.
 Show Less
-Report","₹6,87,533 /yr (est.)",Unknown,Unknown,-1,-1,-1,Unknown / Non-Applicable,0,0,EY,-1,1,0,1,1,1
+Report","₹6,87,533 /yr (est.)",Unknown,Unknown,-1,-1,-1,Unknown / Non-Applicable,0,0,687533.0,EY,-1,1,0,1,1,1
 "Nestsoft technologies
 2.9",Python AI / ML (Online Trainer Part Time),Remote,"Online
 Experience: 1 Years To 5 Years Salary : 10000- 25000 (Month) Part Time
@@ -7548,7 +7548,7 @@ Qualification Required: Any Graduate
 Skills Required: Python, Machine Learning, Artificial Intelligence, Deep Learning, Data Science
 Details: Wanted part time online trainer for Python, Machine Learning, Artificial Intelligence, Deep Learning, Data Science. While you are working as developer you can also work as trainer with us. It will get more income to your skills and experience. We need expert developers as trainer.. Please do not call/whatsapp to any of our company mobile(s). Apply through our website or by email to hr@nestsoft.com
 Show Less
-Report","$17,500 /mo (est.)",51 to 200 Employees,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,Nestsoft technologies,-1,1,0,0,0,0
+Report","$17,500 /mo (est.)",51 to 200 Employees,Company - Public,-1,-1,-1,Unknown / Non-Applicable,0,1,17500.0,Nestsoft technologies,-1,1,0,0,0,0
 Centre For Translational Cancer Research -Prashanti Cancer Care Mission,Junior Data Scientist (Breast Cancer Clinical Data),Pune,"Job Description: Junior Data Scientist (Breast Cancer Clinical Data)
 We at PCCM-CTCR are looking for the following candidate to join our Data Team to evolve the existing system and design the needed schema for research and medical-related data.
 Responsibilities:
@@ -7583,7 +7583,7 @@ List experience or degree in Biological Sciences
 Experience:
 total work: 2 years (Required)
 Show Less
-Report","₹30,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,Centre For Translational Cancer Research -Prashanti Cancer Care Mission,-1,1,0,0,0,0
+Report","₹30,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,30000.0,Centre For Translational Cancer Research -Prashanti Cancer Care Mission,-1,1,0,0,0,0
 "Hitachi India Pvt, Ltd.
 3.8",Data Scientist / AI-ML Engineer,Bangalore,"Description
 Data Scientist / AI-ML Engineer
@@ -7602,7 +7602,7 @@ Requirements:
 Special Preference:
 Eminence: Patents, publications, thought leadership, invited speakership and conspicuous presence in refereed platforms or forums of repute.
 Show Less
-Report","₹3,41,776 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Enterprise Software & Network Solutions,1910,$10+ billion (USD),0,0,"Hitachi India Pvt, Ltd.",112,1,0,0,0,1
+Report","₹3,41,776 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Enterprise Software & Network Solutions,1910,$10+ billion (USD),0,0,341776.0,"Hitachi India Pvt, Ltd.",112,1,0,0,0,1
 "Kmart
 3.4",Data Scientist,Bangalore,"Brighter futures start here
 Anko is the global capability centre for Kmart Group Australia, fuelling growth aspirations of iconic Australian retail brands Kmart, Target and Anko. Based in Bangalore, India, we strive to accelerate retail innovation by building competitive capabilities in Technology, Data Sciences and Business Services that enable our brands to deliver delightful experiences to our in-store and online customers
@@ -7634,7 +7634,7 @@ A place you can belong
 
 We celebrate the rich diversity of the communities in which we operate and are committed to creating inclusive and safe environments where all our team members can contribute and succeed. We believe that all team members should feel valued, respected, and safe irrespective of your gender, ethnicity, indigeneity, religious beliefs, education, age, disability, family responsibilities, sexual orientation and gender identity and we encourage applications from all candidates.
 Show Less
-Report","₹3,32,718 /yr (est.)",10000+ Employees,Subsidiary or Business Segment,Retail & Wholesale,General Merchandise & Superstores,1899,$5 to $10 billion (USD),0,0,Kmart,123,1,0,0,1,0
+Report","₹3,32,718 /yr (est.)",10000+ Employees,Subsidiary or Business Segment,Retail & Wholesale,General Merchandise & Superstores,1899,$5 to $10 billion (USD),0,0,332718.0,Kmart,123,1,0,0,1,0
 "Samsung Electro-Mechanics
 3.5",Machine Learning Engineer,Bangalore,"Job Responsibilities:
 ·Work with deep learning experts to design and implement networks optimized for GPU-accelerated inference
@@ -7681,7 +7681,7 @@ total work: 3 years (Preferred)
 Speak with the employer
 +91 9148758311
 Show Less
-Report","₹1,00,000 /mo (est.)",1001 to 5000 Employees,Subsidiary or Business Segment,Information Technology,Computer Hardware Development,1938,$10+ billion (USD),0,1,Samsung Electro-Mechanics,84,1,0,0,0,1
+Report","₹1,00,000 /mo (est.)",1001 to 5000 Employees,Subsidiary or Business Segment,Information Technology,Computer Hardware Development,1938,$10+ billion (USD),0,1,100000.0,Samsung Electro-Mechanics,84,1,0,0,0,1
 Innomatics Research Labs,Machine Learning and AI Trainer,Hyderābād,"Job description
 Experience
 Minimum 4+ Years of experience in machine learning & data analytics,AI.
@@ -7716,7 +7716,7 @@ total work: 1 year (Preferred)
 Speak with the employer
 +91 8008441993
 Show Less
-Report","₹12,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Innomatics Research Labs,-1,1,0,0,1,0
+Report","₹12,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,1200000.0,Innomatics Research Labs,-1,1,0,0,1,0
 "Larsen & Toubro Limited
 3.5",Computer Vision/Artificial Intelligence,Chennai,"Smart World And CommunicationChennai Head Qrs.
 Required Experience
@@ -7762,7 +7762,7 @@ Solid understanding of state-of-the-art capabilities and design of sensing and c
 Strong working knowledge in networking and other data-centre technologies
 Strong problem solving and logical skills & A Go-getter kind of attitude
 Show Less
-Report","₹3,65,335 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,2014,$500 million to $1 billion (USD),0,0,Larsen & Toubro Limited,8,1,0,0,1,0
+Report","₹3,65,335 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,2014,$500 million to $1 billion (USD),0,0,365335.0,Larsen & Toubro Limited,8,1,0,0,1,0
 Nustar technologies,Machine Learning Engineer,India,"JOB LOCATION - BHUBANESHWAR
 EXPERIENCE - 4+ YEARS
 Good communication skills
@@ -7784,7 +7784,7 @@ Bhubaneshwar - 750001, Odisha: Reliably commute or planning to relocate before s
 Experience:
 total work: 4 years (Preferred)
 Show Less
-Report","₹9,68,126 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Nustar technologies,-1,1,0,0,0,0
+Report","₹9,68,126 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,968126.0,Nustar technologies,-1,1,0,0,0,0
 Finarkein Analytics Pvt. Ltd.,Machine Learning Engineer,Pune,"We are looking for a passionate Machine Learning Engineer who will be responsible for adding machine learning based analytics features to our scalable SaaS products.
 Job Details:
 Job Title: Machine Learning Engineer
@@ -7824,7 +7824,7 @@ Experience:
 Machine learning: 1 year (Preferred)
 Python / R / Java: 1 year (Preferred)
 Show Less
-Report","₹11,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Finarkein Analytics Pvt. Ltd.,-1,1,0,1,0,0
+Report","₹11,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,1100000.0,Finarkein Analytics Pvt. Ltd.,-1,1,0,1,0,0
 TheHive,Data Scientist,Remote,"Responsibilities:
  Undertaking data collection, preprocessing and analysis
  Building models to address business problems
@@ -7855,7 +7855,7 @@ Monday to Friday
 Night shift
 US shift
 Show Less
-Report","$2,00,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,TheHive,-1,1,0,0,0,1
+Report","$2,00,000 /mo (est.)",-1,-1,-1,-1,-1,-1,0,1,200000.0,TheHive,-1,1,0,0,0,1
 "IBM
 4.1",Data Scientist,Ahmedabad,"Introduction
 IBM Ecosystem/Build Lab guides and performs technical build motion activities for IBM's strategic Partners (ISVs - Independent Software Vendors). IBM Build Labs leverages the power and flexibility of IBM's hybrid cloud and AI platforms for development, deployment and get-to-market validation, transforming partner products into innovative joint solutions. With Red Hat OpenShift, IBM Cloud Paks and the entire IBM Cloud and AI portfolio. Modernized products can then run on virtually any platform, opening up new market opportunities and competitive advantages for partners — and their clients — not to mention the support and community of the IBM partner ecosystem
@@ -7941,7 +7941,7 @@ Being You @ IBM
 IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
 Apply Now: click Apply Now
 Show Less
-Report","₹6,20,059 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,1911,$10+ billion (USD),0,0,IBM,111,1,0,1,1,1
+Report","₹6,20,059 /yr (est.)",10000+ Employees,Company - Public,Information Technology,Information Technology Support Services,1911,$10+ billion (USD),0,0,620059.0,IBM,111,1,0,1,1,1
 Flipped.ai,Senior Data Scientist (Pharma Background),Bangalore,"Sr. Data Scientist (Pharma background)
 The ideal candidate's favorite words are learning, data, scale, and agility. You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers. You are a data pro with deep statistical knowledge and analytical aptitude. You know how to make sense of massive amounts of data and gather deep insights. You will use statistics, data mining, machine learning, and deep learning techniques to deliver data-driven insights for clients. You are a thought leader with a commercial acumen, always on top of AI and ML trends.
 Responsibilities:
@@ -7981,7 +7981,7 @@ Machine learning applications: 2 years (Required)
 Deep Learning applications: 1 year (Required)
 Pharma Industry: 2 years (Required)
 Show Less
-Report","₹25,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,Flipped.ai,-1,1,0,1,1,0
+Report","₹25,00,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,2500000.0,Flipped.ai,-1,1,0,1,1,0
 AgEye Technologies,Computer Vision Engineer,Bangalore,"Job: Computer Vision Engineer
 Position Type: Full-time – Permanent
 Location: Bangalore, Karnataka (IN)
@@ -8026,7 +8026,7 @@ Monday to Friday
 Speak with the employer
 +91 9113072108
 Show Less
-Report","₹9,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,AgEye Technologies,-1,1,0,0,1,1
+Report","₹9,50,000 /yr (est.)",-1,-1,-1,-1,-1,-1,0,0,950000.0,AgEye Technologies,-1,1,0,0,1,1
 "Alphanet
 4.4",Machine Learning Engineer,Mohali,"Machine Learning Engineer / Automation
 WFH
@@ -8057,7 +8057,7 @@ Supplemental pay types:
 Joining bonus
 Performance bonus
 Show Less
-Report","₹22,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2001,$25 to $50 million (USD),0,0,Alphanet,21,1,0,0,1,0
+Report","₹22,50,000 /yr (est.)",201 to 500 Employees,Company - Private,Information Technology,Information Technology Support Services,2001,$25 to $50 million (USD),0,0,2250000.0,Alphanet,21,1,0,0,1,0
 Nimetler Technologies Private Limited,Business Analyst-Data Scientist,Mumbai,"We are looking for part time or weekend trainer on following technologies:
 1. Data Science
 2. Business Analysts
@@ -8081,4 +8081,4 @@ Experience:
 Data Science and Business Intelligence: 3 years (Preferred)
 Training: 1 year (Preferred)
 Show Less
-Report","₹3,461.54 /hr (est.)",1 to 50 Employees,Unknown,-1,-1,-1,Unknown / Non-Applicable,1,0,Nimetler Technologies Private Limited,-1,0,0,0,0,0
+Report","₹3,461.54 /hr (est.)",1 to 50 Employees,Unknown,-1,-1,-1,Unknown / Non-Applicable,1,0,3461.54,Nimetler Technologies Private Limited,-1,0,0,0,0,0
