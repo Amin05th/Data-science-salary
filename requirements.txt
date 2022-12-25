@@ -1,2 +1,6 @@
 pandas==1.5.1
 selenium==4.7.2
+matplotlib
+seaborn
+wordcloud
+nltk
