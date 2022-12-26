@@ -4,3 +4,6 @@ matplotlib
 seaborn
 wordcloud
 nltk
+numpy
+scikit-learn
+statsmodels
