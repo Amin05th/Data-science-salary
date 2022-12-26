@@ -88,7 +88,6 @@ df_pivots = df[['company_industry', 'company_sector', 'company_revenue', 'hourly
 
 for i in df_pivots.columns:
     pd.pivot_table(df_pivots, index=i, values="salary").sort_values('salary', ascending=False)
-    pass
 
 pd.pivot_table(df_pivots, index='company_revenue', columns="python_yn", values="salary", aggfunc="count")
 
@@ -113,3 +112,5 @@ plt.figure(figsize=[10, 10])
 plt.imshow(wc, interpolation="bilinear")
 plt.axis('off')
 plt.show()
+
+df.to_csv("eda_data.csv")
