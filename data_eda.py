@@ -105,7 +105,7 @@ words_filtered = punctuation_stop(words)
 
 text = " ".join(list(words_filtered))
 
-wc = WordCloud(background_color="white", random_state=1, stopwords=STOPWORDS, max_words=2000, width=800, height = 1500)
+wc = WordCloud(background_color="white", random_state=1, stopwords=STOPWORDS, max_words=2000, width=800, height=1500)
 wc.generate(text)
 
 plt.figure(figsize=[10, 10])
