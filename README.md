@@ -8,12 +8,12 @@
 
 ## Code and Resources Used
 
-** Python Version: ** 3.7
-** Packages: ** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
-** For Web Framework Requirements: ** pip install -r requirements.txt
-** Scraper Github: ** [https://github.com/arapfaik/scraping-glassdoor-selenium](https://github.com/arapfaik/scraping-glassdoor-selenium)
-** Scraper Article: ** [https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905](https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905)
-** Flask Productionization:  ** [https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2](https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2)
+**Python Version:** 3.7
+**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
+**For Web Framework Requirements:** pip install -r requirements.txt
+**Scraper Github:** [https://github.com/arapfaik/scraping-glassdoor-selenium](https://github.com/arapfaik/scraping-glassdoor-selenium)
+**Scraper Article:** [https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905](https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905)
+**Flask Productionization:** [https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2](https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2)
 
 ## Web Scraping
 
@@ -61,9 +61,9 @@ After scraping the data, I needed to clean it up so that it was usable for our m
  
  I tried three different models:
  
- - ** Multiple Linear Regression: ** Baseline for the model
- - ** Lasso Regression: ** Because of the sparse data from the many categorical variables, I thought a normalized regression like lasso would be effective.
- - ** Random Forest: **  Again, with the sparsity associated with the data, I thought that this would be a good fit.
+ - **Multiple Linear Regression:** Baseline for the model
+ - **Lasso Regression:** Because of the sparse data from the many categorical variables, I thought a normalized regression like lasso would be effective.
+ - **Random Forest:**  Again, with the sparsity associated with the data, I thought that this would be a good fit.
 
 ## Productionization
 
