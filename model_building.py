@@ -6,6 +6,7 @@ from sklearn.linear_model import LinearRegression, Lasso
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error
 import statsmodels.api as sm
+import pickle
 
 
 df = pd.read_csv('eda_data.csv')
@@ -69,3 +70,15 @@ mean_absolute_error(y_test, tpred_lm)
 mean_absolute_error(y_test, tpred_lml)
 mean_absolute_error(y_test, tpred_rf)
 mean_absolute_error(y_test, (tpred_lm+tpred_rf/2))
+
+pick1 = {'model': gs.best_estimator_}
+pickle.dump(pick1, open('model_file' + ".p", "wb"))
+
+file_name = "FlaskAPI/models/model_file.p"
+with open(file_name, 'rb') as pickled:
+    data = pickle.load(pickled)
+    model = data['model']
+
+model.predict(X_test.iloc[1, :].values.reshape(1, -1))
+
+print(list(X_test.iloc[1, :]))
